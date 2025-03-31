@@ -1,0 +1,664 @@
+Semester & Year (Course Identifyer),Session,Class Type,Open or Closed,Capacity,Professor
+,16170,001,Lecture(3),Open,45 / 75
+16170,001,Lecture(3),Open,45 / 75,William Leeson+1
+16170,001,Lecture(3),Open,45 / 75,William Leeson+1
+,15865,001,Lecture(3),Open,245 / 250
+15865,001,Lecture(3),Open,245 / 250,Raymond Pettit
+15865,001,Lecture(3),Open,245 / 250,Raymond Pettit
+16066,002,Lecture(3),Open,142 / 250,Raymond Pettit
+16222,003,Lecture(3),Open,146 / 150,Arohi Khargonkar
+21027,004,Lecture(3),Closed,30 / 30,Aidan San
+15489,101,Laboratory(0),Open,83 / 85,Raymond Pettit
+15491,102,Laboratory(0),Open,75 / 85,Raymond Pettit
+15492,103,Laboratory(0),Open,82 / 85,Raymond Pettit
+15490,104,Laboratory(0),Open,84 / 85,Raymond Pettit
+15829,105,Laboratory(0),Open,83 / 85,Raymond Pettit
+16068,106,Laboratory(0),Open,56 / 85,Raymond Pettit
+16069,107,Laboratory(0),Open,16 / 85,Raymond Pettit
+20837,110,Laboratory(0),Open,26 / 30,Raymond Pettit
+20838,111,Laboratory(0),Open,28 / 30,Raymond Pettit
+20839,112,Laboratory(0),Closed,30 / 30,Raymond Pettit
+,16026,001,Lecture(3),Open,85 / 90
+16026,001,Lecture(3),Open,85 / 90,Arohi Khargonkar
+16026,001,Lecture(3),Open,85 / 90,Arohi Khargonkar
+,,Introduction to Python: ONLY for students who have had *no* programming experience in the past.,15493,001,Lecture(3)
+,Introduction to Python: ONLY for students who have had *no* programming experience in the past.,15493,001,Lecture(3),Closed
+15493,001,Lecture(3),Closed,90 / 90,Nada Basit
+19257,002,Lecture(3),Open,89 / 90,Nada Basit
+,,Introduction to Python for Scientists and Engineers,20902,001,Lecture(3)
+,Introduction to Python for Scientists and Engineers,20902,001,Lecture(3),Closed
+20902,001,Lecture(3),Closed,16 / 15,Robert Group
+,16851,001,Lecture(4),Open,292 / 300
+16851,001,Lecture(4),Open,292 / 300,Briana Morrison
+16851,001,Lecture(4),Open,292 / 300,Briana Morrison
+16852,002,Lecture(4),Open,149 / 150,Briana Morrison
+16853,003,Lecture(4),Open,147 / 150,Derrick Stone
+16854,101,Laboratory(0),Open,89 / 90,Briana Morrison
+16855,102,Laboratory(0),Open,146 / 150,Briana Morrison
+16856,103,Laboratory(0),Open,148 / 150,Briana Morrison
+16857,104,Laboratory(0),Open,83 / 90,Briana Morrison
+16858,105,Laboratory(0),Open,122 / 150,Briana Morrison
+,16718,001,Lecture(3),Open,149 / 150
+16718,001,Lecture(3),Open,149 / 150,Elizabeth Orrico
+16718,001,Lecture(3),Open,149 / 150,Elizabeth Orrico
+16719,002,Lecture(3),Open,159 / 165,Kevin Sullivan
+16720,003,Lecture(3),Closed,150 / 150,Elizabeth Orrico
+,16922,001,Lecture(4),Open,250 / 257
+16922,001,Lecture(4),Open,250 / 257,Daniel Graham
+16922,001,Lecture(4),Open,250 / 257,Daniel Graham
+16923,002,Lecture(4),Closed,279 / 250,Daniel Graham
+16925,101,Laboratory(0),Open,73 / 88,Daniel Graham
+16926,102,Laboratory(0),Open,85 / 88,Daniel Graham
+16927,103,Laboratory(0),Open,87 / 88,Daniel Graham
+16928,104,Laboratory(0),Open,84 / 88,Daniel Graham
+16929,105,Laboratory(0),Open,82 / 88,Daniel Graham
+16930,106,Laboratory(0),Open,83 / 88,Daniel Graham
+19271,107,Laboratory(0),Open,35 / 88,Daniel Graham
+,16115,001,PRA(1),Permission,143 / 130
+16115,001,PRA(1),Permission,143 / 130,Nada Basit+1
+16115,001,PRA(1),Permission,143 / 130,Nada Basit+1
+,21293,001,IND(1 - 3),Permission,1 / 1
+21293,001,IND(1 - 3),Permission,1 / 1,Tom Horton
+21293,001,IND(1 - 3),Permission,1 / 1,Tom Horton
+,16919,001,Lecture(3),Open,225 / 260
+16919,001,Lecture(3),Open,225 / 260,Robbie Hott
+16919,001,Lecture(3),Open,225 / 260,Robbie Hott
+16920,002,Lecture(3),Open,165 / 225,Tom Horton
+,20115,001,Lecture(3),Open,255 / 300
+20115,001,Lecture(3),Open,255 / 300,Mark Floryan
+20115,001,Lecture(3),Open,255 / 300,Mark Floryan
+,19273,001,Lecture(4),Open,294 / 300
+19273,001,Lecture(4),Open,294 / 300,Charles Reiss
+19273,001,Lecture(4),Open,294 / 300,Charles Reiss
+19274,101,Laboratory(0),Open,75 / 90,Charles Reiss
+19275,102,Laboratory(0),Open,104 / 150,Charles Reiss
+19276,103,Laboratory(0),Open,56 / 90,Charles Reiss
+19277,104,Laboratory(0),Open,47 / 150,Charles Reiss
+19278,105,Laboratory(0),Open,12 / 90,Charles Reiss
+,16859,001,Lecture(3),Closed,241 / 230
+16859,001,Lecture(3),Closed,241 / 230,Paul McBurney
+16859,001,Lecture(3),Closed,241 / 230,Paul McBurney
+16860,002,Lecture(3),Closed,240 / 230,Paul McBurney
+,15951,001,Lecture(3),Open,46 / 150
+15951,001,Lecture(3),Open,46 / 150,Panagiotis Apostolellis
+15951,001,Lecture(3),Open,46 / 150,Panagiotis Apostolellis
+,15856,001,Lecture(3),Open,159 / 160
+15856,001,Lecture(3),Open,159 / 160,Mark Sherriff
+15856,001,Lecture(3),Open,159 / 160,Mark Sherriff
+16921,002,Lecture(3),Open,137 / 155,Mark Sherriff
+15883,101,Laboratory(0),Open,296 / 300,Mark Sherriff
+,16403,001,Lecture(3),Open,136 / 140
+16403,001,Lecture(3),Open,136 / 140,Upsorn Praphamontripong
+16403,001,Lecture(3),Open,136 / 140,Upsorn Praphamontripong
+,16402,001,Lecture(3),Closed,146 / 140
+16402,001,Lecture(3),Closed,146 / 140,Angela Orebaugh
+16402,001,Lecture(3),Closed,146 / 140,Angela Orebaugh
+16590,002,Lecture(3),Closed,143 / 140,Angela Orebaugh
+19279,003,Lecture(3),Open,107 / 150,Aaron Bloomfield
+,20846,001,Lecture(3),Open,79 / 90
+20846,001,Lecture(3),Open,79 / 90,Derrick Stone
+20846,001,Lecture(3),Open,79 / 90,Derrick Stone
+,15496,001,Lecture(3),Closed,160 / 125
+15496,001,Lecture(3),Closed,160 / 125,Kevin Skadron
+15496,001,Lecture(3),Closed,160 / 125,Kevin Skadron
+,20095,001,Lecture(3),Open,6 / 18
+20095,001,Lecture(3),Open,6 / 18,Homa Alemzadeh
+20095,001,Lecture(3),Open,6 / 18,Homa Alemzadeh
+,,Privacy in the Internet Age,16405,001,Lecture(3)
+,Privacy in the Internet Age,16405,001,Lecture(3),Open
+16405,001,Lecture(3),Open,88 / 92,Yixin Sun
+16414,002,Lecture(3),Open,39 / 48,Madhur Behl
+16861,004,Lecture(3),Open,49 / 90,Aaron Bloomfield
+16862,005,Lecture(3),Open,29 / 75,Panagiotis Apostolellis
+19281,007,Lecture(3),Open,28 / 75,Shangtong Zhang
+19654,008,Lecture(3),Open,9 / 14,Miaomiao Zhang
+20312,009,Lecture(3),Closed,7 / 7,Brad Campbell+1
+21083,010,Lecture(3),Permission,27 / 35,Jack Davidson
+,16171,001,Lecture(3),Open,46 / 70
+16171,001,Lecture(3),Open,46 / 70,Matthew Dwyer
+16171,001,Lecture(3),Open,46 / 70,Matthew Dwyer
+,16912,001,Lecture(3),Open,52 / 75
+16912,001,Lecture(3),Open,52 / 75,Wajih Ul Hassan
+16912,001,Lecture(3),Open,52 / 75,Wajih Ul Hassan
+,19282,001,Lecture(3),Open,64 / 80
+19282,001,Lecture(3),Open,64 / 80,Robbie Hott
+19282,001,Lecture(3),Open,64 / 80,Robbie Hott
+,16003,001,Lecture(3),Open,97 / 100
+16003,001,Lecture(3),Open,97 / 100,Lu Feng
+16003,001,Lecture(3),Open,97 / 100,Lu Feng
+20781,002,Lecture(3),Permission,67 / 60,Ferdinando Fioretto
+,16034,001,Lecture(3),Closed,141 / 140
+16034,001,Lecture(3),Closed,141 / 140,Upsorn Praphamontripong
+16034,001,Lecture(3),Closed,141 / 140,Upsorn Praphamontripong
+,16404,001,Lecture(3),Open,77 / 82
+16404,001,Lecture(3),Open,77 / 82,Rich Nguyen
+16404,001,Lecture(3),Open,77 / 82,Rich Nguyen
+19283,002,Lecture(3),Open,132 / 140,Rich Nguyen
+,16486,001,IND(1 - 3),Permission,0 / 30
+16486,001,IND(1 - 3),Permission,0 / 30,David Wu
+16486,001,IND(1 - 3),Permission,0 / 30,David Wu
+16487,002,IND(1 - 3),Permission,0 / 30,Haifeng Xu
+16488,003,IND(1 - 3),Permission,3 / 30,Seongkook Heo
+16515,004,IND(1 - 3),Permission,0 / 30,Daniel Graham
+16522,005,IND(1 - 3),Permission,0 / 30,Jack Davidson
+16406,007,IND(1 - 3),Permission,1 / 30,Aidong Zhang
+20476,008,IND(1 - 3),Permission,1 / 30,Briana Morrison
+16539,010,IND(1 - 3),Permission,3 / 30,Rich Nguyen
+15889,011,IND(1 - 3),Permission,0 / 30,David Evans
+16565,012,IND(1 - 3),Permission,0 / 30,Madhav Marathe
+16864,014,IND(1 - 3),Permission,0 / 30,Rosanne Vrugtman
+16584,017,IND(1 - 3),Permission,0 / 30,Aaron Bloomfield
+16669,019,IND(1 - 3),Permission,0 / 30,Sebastian Elbaum
+16258,020,IND(1 - 3),Permission,1 / 30,Madhur Behl
+15890,021,IND(1 - 3),Permission,0 / 30,Mark Sherriff
+15926,022,IND(1 - 3),Permission,0 / 30,Mark Floryan
+15928,023,IND(1 - 3),Permission,0 / 30,Yanjun Qi
+16672,024,IND(1 - 3),Permission,0 / 30,Robbie Hott
+16052,026,IND(1 - 3),Permission,1 / 30,Nada Basit
+16743,027,IND(1 - 3),Permission,0 / 30,Ashish Venkat
+16772,028,IND(1 - 3),Permission,0 / 30,Nicola Bezzo
+16773,029,IND(1 - 3),Permission,0 / 30,Kristen Naegle
+21413,031,IND(1 - 3),Permission,1 / 30,Jundong Li
+16119,032,IND(1 - 3),Permission,1 / 30,Haiying Shen
+16774,033,IND(1 - 3),Permission,0 / 30,Denis Nekipelov
+16120,034,IND(1 - 3),Permission,0 / 30,Charles Reiss
+16122,036,IND(1 - 3),Permission,0 / 30,Upsorn Praphamontripong
+16190,038,IND(1 - 3),Permission,0 / 30,Lu Feng
+16305,039,IND(1 - 3),Permission,0 / 30,Thomas Pinckney
+16312,040,IND(1 - 3),Permission,0 / 30,Nathan Brunelle
+16775,041,IND(1 - 3),Permission,2 / 30,Tariq Iqbal
+16324,042,IND(1 - 3),Permission,0 / 30,Homa Alemzadeh
+16325,043,IND(1 - 3),Permission,0 / 30,Jonathan Goodall
+16776,044,IND(1 - 3),Permission,0 / 30,Afsaneh Doryab
+16822,045,IND(1 - 3),Permission,0 / 30,Paul McBurney
+16365,046,IND(1 - 3),Permission,0 / 30,Yangfeng Ji
+16371,047,IND(1 - 3),Permission,0 / 30,Farzad Hassanzadeh
+16828,048,IND(1 - 3),Permission,0 / 30,Felix Lin
+16839,049,IND(1 - 3),Permission,0 / 30,Raymond Pettit
+16962,050,IND(1 - 3),Permission,0 / 30,Elizabeth Orrico
+16973,051,IND(1 - 3),Permission,1 / 30,Yixin Sun
+17074,052,IND(1 - 3),Permission,0 / 30,Tianhao Wang
+17095,053,IND(1 - 3),Permission,3 / 30,Geoffrey Fox
+20523,054,IND(1 - 3),Permission,2 / 30,Kevin Sullivan
+20613,055,IND(1 - 3),Permission,1 / 30,Panagiotis Apostolellis
+,16945,001,SEM(0),Open,94 / 100
+16945,001,SEM(0),Open,94 / 100,Briana Morrison+1
+16945,001,SEM(0),Open,94 / 100,Briana Morrison+1
+16963,002,SEM(0),Closed,21 / 20,Briana Morrison+1
+,16419,001,IND(1 - 3),Permission,0 / 30
+16419,001,IND(1 - 3),Permission,0 / 30,Aaron Bloomfield
+16419,001,IND(1 - 3),Permission,0 / 30,Aaron Bloomfield
+15582,002,IND(1 - 3),Permission,0 / 30,Mark Sherriff
+15806,003,IND(1 - 3),Permission,0 / 30,Tom Horton
+16407,004,IND(1 - 3),Permission,0 / 30,Aidong Zhang
+16421,005,IND(1 - 3),Open,0 / 30,Anil Vullikanti
+16422,006,IND(1 - 3),Open,0 / 30,Madhav Marathe
+16777,007,IND(1 - 3),Permission,0 / 30,Nicola Bezzo
+16457,008,IND(1 - 3),Permission,0 / 30,Luther Tychonievich
+15800,009,IND(1 - 3),Permission,0 / 30,David Evans
+16473,010,IND(1 - 3),Permission,0 / 30,Robbie Hott
+16474,011,IND(1 - 3),Permission,2 / 30,Panagiotis Apostolellis
+16475,012,IND(1 - 3),Permission,0 / 30,David Wu
+16476,013,IND(1 - 3),Permission,0 / 30,Haifeng Xu
+16477,014,IND(1 - 3),Permission,3 / 30,Seongkook Heo
+16478,015,IND(1 - 3),Permission,0 / 30,Ashish Venkat
+16516,016,IND(1 - 3),Permission,0 / 30,Daniel Graham
+16523,017,IND(1 - 3),Permission,0 / 30,Jack Davidson
+15920,018,IND(1 - 3),Permission,0 / 30,Yanjun Qi
+16526,019,IND(1 - 3),Permission,1 / 30,Homa Alemzadeh
+16541,020,IND(1 - 3),Permission,1 / 30,Madhur Behl
+16542,021,IND(1 - 3),Permission,1 / 30,Brad Campbell
+15961,022,IND(1 - 3),Permission,0 / 30,Mark Floryan
+16564,023,IND(1 - 3),Permission,0 / 30,Yonghwi Kwon
+16013,024,IND(1 - 3),Permission,3 / 30,Nada Basit
+21162,025,IND(1 - 3),Permission,3 / 30,Wei-Kai Lin
+16778,026,IND(1 - 3),Permission,0 / 30,Kristen Naegle
+16779,027,IND(1 - 3),Permission,0 / 30,Denis Nekipelov
+16780,028,IND(1 - 3),Permission,0 / 30,Tariq Iqbal
+16781,029,IND(1 - 3),Permission,5 / 30,Afsaneh Doryab
+16804,030,IND(1 - 3),Permission,1 / 30,Upsorn Praphamontripong
+16809,031,IND(1 - 3),Permission,0 / 30,Yixin Sun
+16076,032,IND(1 - 3),Permission,0 / 30,Samira Khan
+16818,033,IND(1 - 3),Permission,11 / 30,Judy Fox
+16123,034,IND(1 - 3),Permission,0 / 30,Haiying Shen
+16841,035,IND(1 - 3),Permission,0 / 30,Yangfeng Ji
+16842,036,IND(1 - 3),Permission,1 / 30,Jundong Li
+16845,038,IND(1 - 3),Permission,0 / 30,Jim Cohoon
+16191,039,IND(1 - 3),Permission,0 / 30,Lu Feng
+16217,040,IND(1 - 3),Permission,0 / 30,Nathan Brunelle
+16846,041,IND(1 - 3),Permission,6 / 30,Geoffrey Fox
+16260,042,IND(1 - 3),Permission,0 / 30,Yuan Tian
+16961,043,IND(1 - 3),Permission,0 / 30,Elizabeth Orrico
+17068,044,IND(1 - 3),Permission,0 / 30,Yue Cheng
+16323,045,IND(1 - 3),Permission,0 / 30,Jonathan Goodall
+17080,046,IND(1 - 3),Permission,2 / 30,Kevin Sullivan
+17087,047,IND(1 - 3),Permission,0 / 30,Miaomiao Zhang
+17106,048,IND(1 - 3),Permission,0 / 30,Tianhao Wang
+17114,049,IND(1 - 3),Permission,0 / 30,Felix Lin
+16331,050,IND(1 - 3),Permission,1 / 30,Sebastian Elbaum
+17115,051,IND(1 - 3),Permission,0 / 30,Briana Morrison
+17117,052,IND(1 - 3),Permission,0 / 30,Raymond Pettit
+17133,053,IND(1 - 3),Permission,2 / 30,Rich Nguyen
+20533,054,IND(1 - 3),Permission,2 / 30,Paul McBurney
+,16431,001,IND(3),Permission,0 / 30
+16431,001,IND(3),Permission,0 / 30,David Evans
+16431,001,IND(3),Permission,0 / 30,David Evans
+16432,002,IND(3),Permission,0 / 30,Yuan Tian
+16433,003,IND(3),Permission,0 / 30,Panagiotis Apostolellis+1
+21479,004,IND(3),Permission,1 / 30,Brad Campbell
+16479,005,IND(3),Permission,0 / 30,Robbie Hott
+16480,006,IND(3),Permission,0 / 30,Daniel Graham
+16481,007,IND(3),Permission,0 / 30,David Wu
+16482,008,IND(3),Permission,0 / 30,Haifeng Xu
+16483,009,IND(3),Permission,0 / 30,Seongkook Heo
+16484,010,IND(3),Permission,0 / 30,Sebastian Elbaum
+16485,011,IND(3),Permission,0 / 30,Ashish Venkat
+16527,012,IND(3),Permission,0 / 30,Homa Alemzadeh
+16374,013,IND(3),Permission,0 / 30,Yanjun Qi
+16299,014,IND(3),Permission,0 / 30,Mark Sherriff
+16625,015,IND(3),Permission,0 / 30,Madhav Marathe
+16723,016,IND(3),Permission,0 / 30,Ku-Lung Hsu
+16724,017,IND(3),Permission,0 / 30,E Dukes
+16725,018,IND(3),Permission,0 / 30,Mona Kasra
+16726,019,IND(3),Permission,0 / 30,Tariq Iqbal
+16727,020,IND(3),Permission,0 / 30,Gizem Korkmaz
+16732,021,IND(3),Permission,0 / 30,Olivier Pfister
+16782,022,IND(3),Permission,0 / 30,Nicola Bezzo
+16783,023,IND(3),Permission,0 / 30,Kristen Naegle
+16784,024,IND(3),Permission,0 / 30,Denis Nekipelov
+16785,025,IND(3),Permission,0 / 30,Afsaneh Doryab
+16819,026,IND(3),Permission,0 / 30,Judy Fox
+16837,027,IND(3),Permission,0 / 30,Michele Claibourn
+16956,028,IND(3),Permission,0 / 30,Rich Nguyen
+16986,029,IND(3),Permission,0 / 30,Panagiotis Apostolellis
+17097,030,IND(3),Permission,0 / 30,Kevin Skadron
+20760,031,IND(3),Permission,1 / 30,Shangtong Zhang
+,16692,001,Lecture(3),Open,18 / 60
+16692,001,Lecture(3),Open,18 / 60,Haiying Shen
+16692,001,Lecture(3),Open,18 / 60,Haiying Shen
+,15554,001,Lecture(1 - 3),Open,91 / 94
+15554,001,Lecture(1 - 3),Open,91 / 94,Sandhya Dwarkadas
+15554,001,Lecture(1 - 3),Open,91 / 94,Sandhya Dwarkadas
+21026,002,Lecture(1 - 3),Open,19 / 24,Sandhya Dwarkadas
+,20845,001,Lecture(3),Open,13 / 50
+20845,001,Lecture(3),Open,13 / 50,Wei-Kai Lin
+20845,001,Lecture(3),Open,13 / 50,Wei-Kai Lin
+,19622,001,Lecture(3),Open,66 / 75
+19622,001,Lecture(3),Open,66 / 75,Aidong Zhang
+19622,001,Lecture(3),Open,66 / 75,Aidong Zhang
+,20351,001,Lecture(3),Open,29 / 30
+20351,001,Lecture(3),Open,29 / 30,Adwait Jog
+20351,001,Lecture(3),Open,29 / 30,Adwait Jog
+,20094,001,Lecture(3),Open,7 / 10
+20094,001,Lecture(3),Open,7 / 10,Homa Alemzadeh
+20094,001,Lecture(3),Open,7 / 10,Homa Alemzadeh
+,,Human-Computer Interaction,16377,001,Lecture(3)
+,Human-Computer Interaction,16377,001,Lecture(3),Open
+16377,001,Lecture(3),Open,68 / 76,Seongkook Heo
+16659,002,Lecture(3),Open,27 / 40,Tom Fletcher+1
+16797,003,Lecture(3),Open,15 / 17,Brad Campbell+1
+16762,004,Lecture(3),Open,18 / 23,Afsaneh Doryab
+19286,006,Lecture(3),Permission,29 / 30,David Evans
+19293,008,Lecture(3),Open,19 / 30,Sebastian Elbaum
+19541,009,Lecture(3),Open,10 / 15,Jundong Li
+19655,010,Lecture(3),Closed,16 / 14,Miaomiao Zhang
+19288,011,Lecture(3),Open,21 / 30,Yen-Ling Kuo
+16618,012,Lecture(3),Open,15 / 20,Nicola Bezzo
+19289,013,Lecture(3),Closed,76 / 75,Yangfeng Ji
+20790,014,Lecture(3),Open,8 / 30,Hyojoon Kim
+20852,015,Lecture(3),Permission,17 / 20,Chang Lou
+,16696,001,Lecture(3),Closed,48 / 48
+16696,001,Lecture(3),Closed,48 / 48,Felix Lin
+16696,001,Lecture(3),Closed,48 / 48,Felix Lin
+,20157,001,Lecture(3),Closed,12 / 12
+20157,001,Lecture(3),Closed,12 / 12,Brad Campbell+1
+20157,001,Lecture(3),Closed,12 / 12,Brad Campbell+1
+,16442,002,IND(1),Open,1 / 30
+16442,002,IND(1),Open,1 / 30,Farzad Hassanzadeh
+16442,002,IND(1),Open,1 / 30,Farzad Hassanzadeh
+16467,003,IND(1),Open,0 / 30,Madhav Marathe
+16224,004,IND(1),Open,1 / 30,David Evans
+16489,005,IND(1),Open,0 / 30,David Wu
+16225,006,IND(1),Open,0 / 30,Miaomiao Zhang
+16227,008,IND(1),Open,2 / 30,Aidong Zhang
+16490,009,IND(1),Open,0 / 30,Haifeng Xu
+16491,010,IND(1),Open,0 / 30,Seongkook Heo
+16492,011,IND(1),Open,1 / 30,Sebastian Elbaum
+16493,013,IND(1),Open,0 / 30,Ashish Venkat
+16521,015,IND(1),Open,2 / 30,Jack Davidson
+16230,016,IND(1),Open,0 / 30,Haiying Shen
+16231,017,IND(1),Open,1 / 30,Kevin Skadron
+16528,018,IND(1),Open,0 / 30,Homa Alemzadeh
+16233,020,IND(1),Open,0 / 30,Kevin Sullivan
+21214,022,IND(1),Open,0 / 30,Chang Lou
+16552,024,IND(1),Open,0 / 30,Lu Feng
+16574,025,IND(1),Open,0 / 30,Mohammad Mahmoody
+16575,026,IND(1),Open,0 / 30,Yanjun Qi
+16582,027,IND(1),Open,0 / 30,Madhur Behl
+16627,028,IND(1),Open,0 / 30,Charles Reiss
+16628,029,IND(1),Open,0 / 30,Michael Albert
+16629,030,IND(1),Open,0 / 30,Panagiotis Apostolellis
+16630,031,IND(1),Open,0 / 30,Nada Basit
+16631,032,IND(1),Open,0 / 30,Aaron Bloomfield
+16632,033,IND(1),Open,0 / 30,Nathan Brunelle
+16633,034,IND(1),Open,0 / 30,Brad Campbell
+16657,035,IND(1),Open,0 / 30,Anil Vullikanti
+16634,036,IND(1),Open,1 / 30,Matthew Dwyer
+16635,037,IND(1),Open,1 / 30,Tom Fletcher
+16636,038,IND(1),Open,0 / 30,Mark Floryan
+16637,039,IND(1),Open,0 / 30,Daniel Graham
+16638,040,IND(1),Open,0 / 30,Tom Horton
+16639,041,IND(1),Open,0 / 30,Robbie Hott
+21528,042,IND(1),Open,1 / 30,Yue Cheng
+16641,043,IND(1),Open,1 / 30,Yangfeng Ji
+16642,044,IND(1),Open,1 / 30,Samira Khan
+16644,046,IND(1),Open,0 / 30,Jundong Li
+16645,047,IND(1),Open,0 / 30,Worthy Martin
+16646,048,IND(1),Open,0 / 30,Paul McBurney
+16647,049,IND(1),Open,0 / 30,Rich Nguyen
+16648,050,IND(1),Open,0 / 30,Raymond Pettit
+16649,051,IND(1),Open,0 / 30,Thomas Pinckney
+16650,052,IND(1),Open,0 / 30,Upsorn Praphamontripong
+16652,054,IND(1),Open,0 / 30,Mark Sherriff
+16654,056,IND(1),Open,0 / 30,Derrick Stone
+16655,057,IND(1),Open,0 / 30,Yixin Sun
+16957,059,IND(1),Open,7 / 30,Felix Lin
+17045,060,IND(1),Open,0 / 30,Shangtong Zhang
+21216,062,IND(1),Open,0 / 30,Ferdinando Fioretto
+21217,063,IND(1),Open,0 / 30,Wei-Kai Lin
+21218,064,IND(1),Open,0 / 30,Hyojoon Kim
+21219,065,IND(1),Open,1 / 30,Chen-Yu Wei
+21220,066,IND(1),Open,0 / 30,Yen-Ling Kuo
+,16530,001,IND(1 - 12),Open,0 / 30
+16530,001,IND(1 - 12),Open,0 / 30,Homa Alemzadeh
+16530,001,IND(1 - 12),Open,0 / 30,Homa Alemzadeh
+17071,002,IND(1 - 12),Open,1 / 30,Yue Cheng
+17092,003,IND(1 - 12),Permission,0 / 30,Panagiotis Apostolellis
+17120,004,IND(1 - 12),Permission,0 / 30,Clint Miller
+20496,005,IND(1 - 12),Permission,1 / 30,Raymond Pettit
+21486,006,IND(1 - 12),Permission,0 / 30,Kevin Sullivan
+,16468,001,IND(1 - 12),Open,2 / 30
+16468,001,IND(1 - 12),Open,2 / 30,Aidong Zhang
+16468,001,IND(1 - 12),Open,2 / 30,Aidong Zhang
+16423,002,IND(1 - 12),Open,0 / 30,Anil Vullikanti
+15749,003,IND(1 - 12),Open,0 / 30,Kevin Skadron
+16408,004,IND(1 - 12),Open,1 / 30,Jack Davidson
+15929,005,IND(1 - 12),Open,0 / 30,Nada Basit
+16424,006,IND(1 - 12),Open,2 / 30,Madhav Marathe
+16494,007,IND(1 - 12),Open,0 / 30,Robbie Hott
+15930,008,IND(1 - 12),Open,1 / 30,Lu Feng
+15931,009,IND(1 - 12),Open,0 / 30,Upsorn Praphamontripong
+16495,010,IND(1 - 12),Open,0 / 30,David Wu
+16496,011,IND(1 - 12),Open,0 / 30,Haifeng Xu
+16086,012,IND(1 - 12),Open,0 / 30,Samira Khan
+16497,013,IND(1 - 12),Open,1 / 30,Seongkook Heo
+16498,014,IND(1 - 12),Open,0 / 30,Sebastian Elbaum
+16499,015,IND(1 - 12),Open,1 / 30,Ashish Venkat
+16531,016,IND(1 - 12),Open,0 / 30,Homa Alemzadeh
+16537,017,IND(1 - 12),Open,2 / 30,Brad Campbell
+16553,018,IND(1 - 12),Open,1 / 30,Jundong Li
+16786,019,IND(1 - 12),Open,0 / 30,Afsaneh Doryab
+16204,020,IND(1 - 12),Open,0 / 30,Madhur Behl
+16820,021,IND(1 - 12),Open,1 / 30,Judy Fox
+21221,022,IND(1 - 12),Open,0 / 30,Chang Lou
+15932,023,IND(1 - 12),Open,1 / 30,Yanjun Qi
+16125,024,IND(1 - 12),Open,3 / 30,Haiying Shen
+16332,026,IND(1 - 12),Open,1 / 30,Yangfeng Ji
+16849,028,IND(1 - 12),Open,1 / 30,Felix Lin
+16984,029,IND(1 - 12),Open,0 / 30,Kristen Naegle
+17024,030,IND(1 - 12),Open,4 / 30,Tianhao Wang
+17072,031,IND(1 - 12),Open,0 / 30,Yue Cheng
+17099,032,IND(1 - 12),Open,1 / 30,Shangtong Zhang
+20497,033,IND(1 - 12),Open,1 / 30,Raymond Pettit
+20593,034,IND(1 - 12),Open,1 / 30,Matthew Dwyer
+21222,035,IND(1 - 12),Open,1 / 30,Ferdinando Fioretto
+21223,036,IND(1 - 12),Open,0 / 30,Wei-Kai Lin
+21224,037,IND(1 - 12),Open,0 / 30,Hyojoon Kim
+21225,038,IND(1 - 12),Open,0 / 30,Chen-Yu Wei
+21226,039,IND(1 - 12),Open,1 / 30,Yen-Ling Kuo
+21348,040,IND(1 - 12),Open,3 / 30,Miaomiao Zhang
+21487,041,IND(1 - 12),Open,1 / 30,Kevin Sullivan
+,16500,001,IND(3),Open,0 / 30
+16500,001,IND(3),Open,0 / 30,David Wu
+16500,001,IND(3),Open,0 / 30,David Wu
+15715,002,IND(3),Open,0 / 30,David Evans
+16425,003,IND(3),Open,0 / 30,Anil Vullikanti
+16426,004,IND(3),Open,0 / 30,Madhav Marathe
+16501,005,IND(3),Open,0 / 30,Haifeng Xu
+16502,006,IND(3),Open,0 / 30,Seongkook Heo
+16503,007,IND(3),Open,0 / 30,Sebastian Elbaum
+16504,008,IND(3),Open,0 / 30,Ashish Venkat
+16311,009,IND(3),Open,0 / 30,Nada Basit
+16409,010,IND(3),Open,0 / 30,Aidong Zhang
+16532,012,IND(3),Open,0 / 30,Homa Alemzadeh
+16566,014,IND(3),Open,0 / 30,Nicola Bezzo
+16787,015,IND(3),Open,0 / 30,Afsaneh Doryab
+21228,016,IND(3),Open,0 / 30,Chang Lou
+15820,017,IND(3),Open,0 / 30,Mark Sherriff
+15952,018,IND(3),Open,0 / 30,Mohammad Mahmoody
+16205,019,IND(3),Open,0 / 30,Madhur Behl
+17007,021,IND(3),Open,0 / 30,Kevin Skadron
+17111,022,IND(3),Open,0 / 30,Miaomiao Zhang
+21229,023,IND(3),Open,0 / 30,Ferdinando Fioretto
+21230,024,IND(3),Open,0 / 30,Wei-Kai Lin
+21231,025,IND(3),Open,0 / 30,Hyojoon Kim
+21232,026,IND(3),Open,0 / 30,Chen-Yu Wei
+21233,027,IND(3),Open,0 / 30,Yen-Ling Kuo
+,15717,001,IND(1 - 6),Open,0 / 30
+15717,001,IND(1 - 6),Open,0 / 30,Jack Davidson
+15717,001,IND(1 - 6),Open,0 / 30,Jack Davidson
+15718,002,IND(1 - 6),Open,0 / 30,David Evans
+16815,004,IND(1 - 6),Open,1 / 30,Afsaneh Doryab
+16533,005,IND(1 - 6),Open,0 / 30,Homa Alemzadeh
+15720,006,IND(1 - 6),Open,1 / 30,Kevin Skadron
+16410,007,IND(1 - 6),Open,3 / 30,Aidong Zhang
+16808,008,IND(1 - 6),Open,2 / 30,Yixin Sun
+15794,010,IND(1 - 6),Open,0 / 30,Aaron Bloomfield
+16127,012,IND(1 - 6),Open,0 / 30,Kai-wei Chang
+15795,013,IND(1 - 6),Open,0 / 30,Tom Horton
+16079,014,IND(1 - 6),Open,0 / 30,Samira Khan
+16210,015,IND(1 - 6),Open,0 / 30,Brad Campbell
+15796,016,IND(1 - 6),Open,0 / 30,Worthy Martin
+15922,017,IND(1 - 6),Open,0 / 30,Nada Basit
+15953,020,IND(1 - 6),Open,0 / 30,Mohammad Mahmoody
+15798,021,IND(1 - 6),Open,3 / 30,Kevin Sullivan
+21033,022,IND(1 - 6),Open,0 / 30,Yen-Ling Kuo
+16206,023,IND(1 - 6),Open,1 / 30,Madhur Behl
+15801,025,IND(1 - 6),Open,0 / 30,Mark Sherriff
+16048,026,IND(1 - 6),Permission,0 / 30,Craig Dill
+16050,027,IND(1 - 6),Permission,0 / 30,Kong-cheng Wong
+15880,028,IND(1 - 6),Open,0 / 30,David Edwards
+21212,029,IND(1 - 6),Open,1 / 30,Chang Lou
+15923,030,IND(1 - 6),Open,0 / 30,Mark Floryan
+15925,032,IND(1 - 6),Open,0 / 30,Yanjun Qi
+16128,033,IND(1 - 6),Open,1 / 30,Haiying Shen
+16826,034,IND(1 - 6),Open,0 / 30,Tom Fletcher
+16129,035,IND(1 - 6),Open,0 / 30,Charles Reiss
+16131,037,IND(1 - 6),Open,0 / 30,Upsorn Praphamontripong
+16157,038,IND(1 - 6),Open,0 / 30,Mary Smith
+16158,039,IND(1 - 6),Open,0 / 30,Abdeltawab Hendawi
+16186,041,IND(1 - 6),Open,3 / 30,Lu Feng
+16218,042,IND(1 - 6),Open,0 / 30,Nathan Brunelle
+16236,043,IND(1 - 6),Open,0 / 30,Farzad Hassanzadeh
+16334,045,IND(1 - 6),Open,3 / 30,Matthew Dwyer
+16335,046,IND(1 - 6),Open,0 / 30,Sebastian Elbaum
+16336,047,IND(1 - 6),Open,2 / 30,Yangfeng Ji
+16338,049,IND(1 - 6),Open,0 / 30,Ashish Venkat
+16339,050,IND(1 - 6),Open,1 / 30,Daniel Graham
+16340,051,IND(1 - 6),Open,0 / 30,Robbie Hott
+16341,052,IND(1 - 6),Open,0 / 30,Rich Nguyen
+16342,053,IND(1 - 6),Open,0 / 30,Raymond Pettit
+17023,054,IND(1 - 6),Open,0 / 30,Tianhao Wang
+17037,055,IND(1 - 6),Open,0 / 30,Seongkook Heo
+17041,056,IND(1 - 6),Open,1 / 30,Miaomiao Zhang
+17044,057,IND(1 - 6),Open,0 / 30,Shangtong Zhang
+17050,058,IND(1 - 6),Open,1 / 30,Felix Lin
+17073,059,IND(1 - 6),Open,1 / 30,Sandhya Dwarkadas
+17091,060,IND(1 - 6),Open,2 / 30,Wajih Ul Hassan
+17104,061,IND(1 - 6),Open,0 / 30,Geoffrey Fox
+21247,062,IND(1 - 6),Open,1 / 30,Ferdinando Fioretto
+21248,063,IND(1 - 6),Open,0 / 30,Wei-Kai Lin
+21249,064,IND(1 - 6),Open,0 / 30,Hyojoon Kim
+21250,065,IND(1 - 6),Open,0 / 30,Chen-Yu Wei
+,15702,003,IND(1 - 12),Open,1 / 30
+15702,003,IND(1 - 12),Open,1 / 30,Jack Davidson
+15702,003,IND(1 - 12),Open,1 / 30,Jack Davidson
+15703,004,IND(1 - 12),Open,2 / 30,David Evans
+16798,006,IND(1 - 12),Open,4 / 30,Afsaneh Doryab
+15957,008,IND(1 - 12),Open,1 / 30,Yanjun Qi
+15705,009,IND(1 - 12),Open,0 / 30,Tom Horton
+16810,010,IND(1 - 12),Open,0 / 30,Yixin Sun
+15821,011,IND(1 - 12),Open,0 / 30,Mark Sherriff
+16211,012,IND(1 - 12),Open,0 / 30,Brad Campbell
+15706,014,IND(1 - 12),Open,0 / 30,Worthy Martin
+15954,015,IND(1 - 12),Open,0 / 30,Mohammad Mahmoody
+15708,018,IND(1 - 12),Open,1 / 30,Kevin Skadron
+16821,019,IND(1 - 12),Open,2 / 30,Judy Fox
+16670,020,IND(1 - 12),Open,1 / 30,Miaomiao Zhang
+16823,021,IND(1 - 12),Open,4 / 30,Felix Lin
+15709,022,IND(1 - 12),Open,1 / 30,Kevin Sullivan
+16824,023,IND(1 - 12),Open,0 / 30,Tom Fletcher
+16207,024,IND(1 - 12),Open,3 / 30,Madhur Behl
+15822,025,IND(1 - 12),Open,0 / 30,Aaron Bloomfield
+16081,026,IND(1 - 12),Open,0 / 30,Samira Khan
+16134,027,IND(1 - 12),Open,0 / 30,Kai-wei Chang
+16135,028,IND(1 - 12),Open,1 / 30,Haiying Shen
+16833,029,IND(1 - 12),Open,0 / 30,Rich Nguyen
+16136,030,IND(1 - 12),Open,0 / 30,Charles Reiss
+16138,032,IND(1 - 12),Open,0 / 30,Upsorn Praphamontripong
+16187,033,IND(1 - 12),Open,0 / 30,Lu Feng
+16219,034,IND(1 - 12),Open,0 / 30,Nathan Brunelle
+16237,035,IND(1 - 12),Open,1 / 30,Farzad Hassanzadeh
+16326,037,IND(1 - 12),Open,0 / 30,Homa Alemzadeh
+16327,038,IND(1 - 12),Open,0 / 30,Jonathan Goodall
+16328,039,IND(1 - 12),Open,0 / 30,Denis Nekipelov
+16329,040,IND(1 - 12),Open,0 / 30,Kristen Naegle
+16343,041,IND(1 - 12),Open,1 / 30,Matthew Dwyer
+16344,042,IND(1 - 12),Open,0 / 30,Sebastian Elbaum
+16345,043,IND(1 - 12),Open,5 / 30,Yangfeng Ji
+16346,044,IND(1 - 12),Open,1 / 30,Yonghwi Kwon
+16411,045,IND(1 - 12),Open,4 / 30,Aidong Zhang
+16427,046,IND(1 - 12),Open,4 / 30,Anil Vullikanti
+16428,047,IND(1 - 12),Open,7 / 30,Madhav Marathe
+16471,048,IND(1 - 12),Open,0 / 30,Michael Albert
+16505,049,IND(1 - 12),Open,0 / 30,David Wu
+16506,050,IND(1 - 12),Open,0 / 30,Haifeng Xu
+16507,051,IND(1 - 12),Open,0 / 30,Seongkook Heo
+16508,052,IND(1 - 12),Open,3 / 30,Ashish Venkat
+16561,053,IND(1 - 12),Open,1 / 30,Jundong Li
+16568,054,IND(1 - 12),Open,1 / 30,Nicola Bezzo
+16998,055,IND(1 - 12),Open,4 / 30,Wajih Ul Hassan
+17020,056,IND(1 - 12),Open,1 / 30,Sandhya Dwarkadas
+17040,057,IND(1 - 12),Open,6 / 30,Geoffrey Fox
+17046,058,IND(1 - 12),Open,2 / 30,Shangtong Zhang
+17051,059,IND(1 - 12),Open,2 / 30,Tariq Iqbal
+17069,060,IND(1 - 12),Open,3 / 30,Yue Cheng
+20946,061,IND(1 - 12),Open,2 / 30,Chen-Yu Wei
+20964,062,IND(1 - 12),Open,1 / 30,Adwait Jog
+20965,063,IND(1 - 12),Open,1 / 30,Tianhao Wang
+20967,064,IND(1 - 12),Open,1 / 30,Ferdinando Fioretto
+20968,065,IND(1 - 12),Open,0 / 30,Hyojoon Kim
+20969,066,IND(1 - 12),Open,0 / 30,Wei-Kai Lin
+20975,067,IND(1 - 12),Open,0 / 30,Chang Lou
+20976,068,IND(1 - 12),Open,0 / 30,Yen-Ling Kuo
+,15843,001,IND(1 - 6),Permission,0 / 30
+15843,001,IND(1 - 6),Permission,0 / 30,Aaron Bloomfield
+15843,001,IND(1 - 6),Permission,0 / 30,Aaron Bloomfield
+17090,002,IND(1 - 6),Permission,1 / 30,Shangtong Zhang
+15845,004,IND(1 - 6),Permission,0 / 30,Jack Davidson
+15846,005,IND(1 - 6),Permission,0 / 30,David Evans
+17105,006,IND(1 - 6),Permission,0 / 30,Wajih Ul Hassan
+16047,007,IND(1 - 6),Permission,0 / 30,David Edwards
+15847,008,IND(1 - 6),Permission,0 / 30,Tom Horton
+21024,009,IND(1 - 6),Permission,2 / 30,Adwait Jog
+16212,010,IND(1 - 6),Permission,0 / 30,Brad Campbell
+16046,011,IND(1 - 6),Permission,1 / 30,Mark Floryan
+15848,012,IND(1 - 6),Permission,0 / 30,Worthy Martin
+15958,013,IND(1 - 6),Permission,0 / 30,Yanjun Qi
+15849,015,IND(1 - 6),Permission,0 / 30,Mark Sherriff
+15850,016,IND(1 - 6),Permission,3 / 30,Kevin Skadron
+21034,017,IND(1 - 6),Permission,1 / 30,Yen-Ling Kuo
+15955,018,IND(1 - 6),Permission,0 / 30,Mohammad Mahmoody
+21240,019,IND(1 - 6),Permission,0 / 30,Chang Lou
+15851,020,IND(1 - 6),Permission,0 / 30,Kevin Sullivan
+21241,021,IND(1 - 6),Permission,0 / 30,Ferdinando Fioretto
+16208,022,IND(1 - 6),Permission,0 / 30,Madhur Behl
+21242,023,IND(1 - 6),Permission,0 / 30,Wei-Kai Lin
+16083,025,IND(1 - 6),Permission,0 / 30,Samira Khan
+16139,026,IND(1 - 6),Permission,0 / 30,Kai-wei Chang
+16140,027,IND(1 - 6),Permission,0 / 30,Haiying Shen
+21243,028,IND(1 - 6),Permission,0 / 30,Hyojoon Kim
+16141,029,IND(1 - 6),Permission,0 / 30,Charles Reiss
+16143,031,IND(1 - 6),Permission,0 / 30,Upsorn Praphamontripong
+16160,032,IND(1 - 6),Permission,0 / 30,Mary Smith
+16161,033,IND(1 - 6),Permission,0 / 30,Kong-cheng Wong
+16188,035,IND(1 - 6),Permission,0 / 30,Lu Feng
+16220,036,IND(1 - 6),Permission,0 / 30,Nathan Brunelle
+16238,037,IND(1 - 6),Permission,0 / 30,Farzad Hassanzadeh
+16347,039,IND(1 - 6),Permission,1 / 30,Matthew Dwyer
+16348,040,IND(1 - 6),Permission,0 / 30,Sebastian Elbaum
+16349,041,IND(1 - 6),Permission,1 / 30,Yangfeng Ji
+16351,043,IND(1 - 6),Permission,0 / 30,Ashish Venkat
+16352,044,IND(1 - 6),Permission,0 / 30,Daniel Graham
+16353,045,IND(1 - 6),Permission,1 / 30,Robbie Hott
+16354,046,IND(1 - 6),Permission,0 / 30,Rich Nguyen
+16355,047,IND(1 - 6),Permission,0 / 30,Raymond Pettit
+16412,048,IND(1 - 6),Permission,0 / 30,Aidong Zhang
+16509,049,IND(1 - 6),Permission,0 / 30,David Wu
+16510,050,IND(1 - 6),Permission,0 / 30,Haifeng Xu
+16511,051,IND(1 - 6),Permission,2 / 30,Seongkook Heo
+16534,052,IND(1 - 6),Permission,0 / 30,Homa Alemzadeh
+16816,053,IND(1 - 6),Permission,0 / 30,Afsaneh Doryab
+16827,054,IND(1 - 6),Permission,1 / 30,Tom Fletcher
+21245,057,IND(1 - 6),Permission,0 / 30,Chen-Yu Wei
+21246,058,IND(1 - 6),Permission,0 / 30,Yen-Ling Kuo
+,15691,001,IND(1 - 12),Open,10 / 30
+15691,001,IND(1 - 12),Open,10 / 30,Kevin Skadron
+15691,001,IND(1 - 12),Open,10 / 30,Kevin Skadron
+15686,003,IND(1 - 12),Open,0 / 30,Jack Davidson
+15823,004,IND(1 - 12),Open,0 / 30,Aaron Bloomfield
+16825,006,IND(1 - 12),Open,2 / 30,Tom Fletcher
+16681,007,IND(1 - 12),Open,3 / 30,Yixin Sun
+15687,008,IND(1 - 12),Open,2 / 30,David Evans
+17018,009,IND(1 - 12),Open,0 / 30,Tariq Iqbal
+16671,010,IND(1 - 12),Open,1 / 30,Miaomiao Zhang
+15959,012,IND(1 - 12),Open,1 / 30,Yanjun Qi
+16664,013,IND(1 - 12),Open,1 / 30,Jundong Li
+16085,014,IND(1 - 12),Open,1 / 30,Samira Khan
+16213,015,IND(1 - 12),Open,7 / 30,Brad Campbell
+15689,016,IND(1 - 12),Open,0 / 30,Worthy Martin
+15956,017,IND(1 - 12),Open,0 / 30,Mohammad Mahmoody
+16209,019,IND(1 - 12),Open,2 / 30,Madhur Behl
+16514,020,IND(1 - 12),Open,3 / 30,Seongkook Heo
+16513,021,IND(1 - 12),Open,0 / 30,Haifeng Xu
+16144,022,IND(1 - 12),Open,0 / 30,Kai-wei Chang
+15692,023,IND(1 - 12),Open,0 / 30,Kevin Sullivan
+15824,025,IND(1 - 12),Open,0 / 30,Tom Horton
+16145,026,IND(1 - 12),Open,10 / 30,Haiying Shen
+15825,027,IND(1 - 12),Open,0 / 30,Mark Sherriff
+16512,028,IND(1 - 12),Open,0 / 30,David Wu
+16146,029,IND(1 - 12),Open,0 / 30,Charles Reiss
+16148,031,IND(1 - 12),Open,0 / 30,Upsorn Praphamontripong
+16189,032,IND(1 - 12),Open,4 / 30,Lu Feng
+16221,033,IND(1 - 12),Open,0 / 30,Nathan Brunelle
+16239,034,IND(1 - 12),Open,2 / 30,Farzad Hassanzadeh
+16356,036,IND(1 - 12),Open,5 / 30,Matthew Dwyer
+16357,037,IND(1 - 12),Open,4 / 30,Sebastian Elbaum
+16358,038,IND(1 - 12),Open,4 / 30,Yangfeng Ji
+16359,039,IND(1 - 12),Open,2 / 30,Yonghwi Kwon
+16375,040,IND(1 - 12),Open,2 / 30,Ashish Venkat
+16413,041,IND(1 - 12),Open,5 / 30,Aidong Zhang
+16429,042,IND(1 - 12),Open,1 / 30,Anil Vullikanti
+16430,043,IND(1 - 12),Open,4 / 30,Madhav Marathe
+16959,044,IND(1 - 12),Open,1 / 30,John Stankovic
+17000,045,IND(1 - 12),Open,1 / 30,Sandhya Dwarkadas
+17047,047,IND(1 - 12),Open,1 / 30,Shangtong Zhang
+17070,048,IND(1 - 12),Open,1 / 30,Yue Cheng
+20620,049,IND(1 - 12),Open,1 / 30,Adwait Jog
+21101,050,IND(1 - 12),Open,2 / 30,Geoffrey Fox
+21234,051,IND(1 - 12),Open,0 / 30,Chang Lou
+21235,052,IND(1 - 12),Open,4 / 30,Ferdinando Fioretto
+21236,053,IND(1 - 12),Open,0 / 30,Wei-Kai Lin
+21237,054,IND(1 - 12),Open,0 / 30,Hyojoon Kim
+21238,055,IND(1 - 12),Open,1 / 30,Chen-Yu Wei
+21239,056,IND(1 - 12),Open,3 / 30,Yen-Ling Kuo

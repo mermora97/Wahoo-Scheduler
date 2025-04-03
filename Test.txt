@@ -1,2 +1,0 @@
-You should see this in Colab - Github
-I absolutely do. Yay! - Colab

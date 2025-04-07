@@ -1,0 +1,351 @@
+ClassNumber,Mnemonic,Number,Section,Type,Units,Instructor,Days,Room,Title,Topic,Status,Enrollment,EnrollmentLimit,Waitlist
+10266,AAS,2224,001,SEM,"3","Lisa Shutt","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Black Femininities and Masculinities in the US Media","",Closed,30,30,0
+10066,AAS,2559,001,SEM,"3","Anne Rotich","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in African and African American Studies","African Languages and Literatures",Open,12,20,0
+10282,AMST,2559,001,Lecture,"3","Elgin Cleckley, Kirt von Daacke","TBA","TBA","New Course in American Studies","The Good, the Bad, and the Ugly: Designing America",Open,26,35,0
+10225,ANTH,2559,100,Lecture,"3","Erin Eaker, Rachel Most","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,293,350,0
+10226,ANTH,2559,101,Discussion,"0","Andrew Ebrahem","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,1,30,0
+10227,ANTH,2559,102,Discussion,"0","Byron Clanor","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,14,30,0
+10228,ANTH,2559,103,Discussion,"0","Charles Oswald","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,16,30,0
+10229,ANTH,2559,104,Discussion,"0","Erica Krause","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,17,30,0
+10230,ANTH,2559,105,Discussion,"0","Jennie Askew","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,17,30,0
+10231,ANTH,2559,106,Discussion,"0","Jesse McCain","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,14,30,0
+10232,ANTH,2559,107,Discussion,"0","Lauren Van Nest","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,17,30,0
+10347,ANTH,2559,108,Discussion,"0","Mary Wilks","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,10,30,0
+10348,ANTH,2559,109,Discussion,"0","Melvin Bouboulis","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,25,30,0
+10349,ANTH,2559,111,Discussion,"0","Mingyun Zhang","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,16,30,0
+10350,ANTH,2559,112,Discussion,"0","Nathan Frank","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,29,30,0
+10376,ANTH,2559,113,Discussion,"0","Roberto Rodriguez","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,27,30,0
+10377,ANTH,2559,114,Discussion,"0","Sanaa Abrahams","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,26,30,0
+10378,ANTH,2559,115,Discussion,"0","Stephen Marrone","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,19,30,0
+10379,ANTH,2559,116,Discussion,"0","Thomas Storrs","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,20,30,0
+10383,ANTH,2559,117,Discussion,"0","Uzma Zafar","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,21,30,0
+10424,ANTH,2559,118,Discussion,"0","William Welchance","TBA","TBA","New Course in Anthropology","The Past, Present, and Future of Humankind",Open,4,30,0
+10267,ANTH,2590,001,Lecture,"3","Saad Quasem","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Social and Cultural Anthropology","The Culture of Rivers",Open,19,20,0
+10283,ARCH,2500,001,Lecture,"3","Elgin Cleckley, Kirt von Daacke","TBA","TBA","Special Topics in Architecture","The Good, the Bad, and the Ugly: Designing America",Open,12,20,0
+10196,ARCH,3500,200,Lecture,"3","Barbara Wilson, Jeana Ripple","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in Architecture","Climate Justice in Cities",Open,61,200,0
+10197,ARCH,3500,201,Discussion,"0","Asriyanti Karma","TBA","TBA","Special Topics in Architecture","Climate Justice in Cities",Open,17,30,0
+10198,ARCH,3500,202,Discussion,"0","Elizabeth Chung","TBA","TBA","Special Topics in Architecture","Climate Justice in Cities",Open,8,30,0
+10199,ARCH,3500,203,Discussion,"0","Hayley Elszasz","TBA","TBA","Special Topics in Architecture","Climate Justice in Cities",Open,5,30,0
+10200,ARCH,3500,204,Discussion,"0","Jessica Smith","TBA","TBA","Special Topics in Architecture","Climate Justice in Cities",Open,10,30,0
+10201,ARCH,3500,205,Discussion,"0","Michael Salgueiro","TBA","TBA","Special Topics in Architecture","Climate Justice in Cities",Open,9,30,0
+10202,ARCH,3500,206,Discussion,"0","Lauren McQuistion","TBA","TBA","Special Topics in Architecture","Climate Justice in Cities",Open,6,30,0
+10203,ARCH,3500,207,Discussion,"0","Catherine Owsik","TBA","TBA","Special Topics in Architecture","Climate Justice in Cities",Open,6,20,0
+10291,ARH,2500,001,Lecture,"3","Lisa Reilly","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in Architectural History","Haj: 12th Century Mediterranean",Closed,21,20,0
+10091,ARH,3500,001,Lecture,"3","Andrew Johnston","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in Architectural History","Cultural Landscape of Virginia",Open,21,30,0
+10340,ARH,5500,001,Lecture,"1 - 3","Andrew Johnston","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Selected Topics in Architectural History","Cultural Landscape of Virginia",Open,3,30,0
+10067,ARTH,2470,001,SEM,"3","Christa Robbins","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Art Now","",Open,28,30,0
+10447,ARTH,2559,001,Lecture,"3 - 4","Lisa Reilly","TBA","TBA","New Course in History of Art","Haj:12th Century Mediterranean",Open,3,5,0
+10131,ARTS,1559,100,Lecture,"3","Lydia Moyer, Mona Kasra","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Studio Art","The Art of Resistance",Open,123,180,0
+10160,ARTS,1559,101,Discussion,"0","Ariana Arenius","TBA","TBA","New Course in Studio Art","The Art of Resistance",Open,18,30,0
+10161,ARTS,1559,102,Discussion,"0","Heather Mease","TBA","TBA","New Course in Studio Art","The Art of Resistance",Open,24,30,0
+10162,ARTS,1559,103,Discussion,"0","Madeline Smith","TBA","TBA","New Course in Studio Art","The Art of Resistance",Open,20,30,0
+10163,ARTS,1559,104,Discussion,"0","Theodore Teichman","TBA","TBA","New Course in Studio Art","The Art of Resistance",Open,23,30,0
+10164,ARTS,1559,105,Discussion,"0","Ya-Hsin Chiang","TBA","TBA","New Course in Studio Art","The Art of Resistance",Open,20,30,0
+10165,ARTS,1559,106,Discussion,"0","Karl Sparrman","TBA","TBA","New Course in Studio Art","The Art of Resistance",Open,18,30,0
+10068,ARTS,2000,001,STO,"3","Amy Chan","TBA","TBA","Introduction to Studio Art","",Closed,20,20,0
+10335,ARTS,2000,002,STO,"3","Matthew Shelton","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Introduction to Studio Art","",Closed,20,20,0
+10109,ARTS,2560,001,STO,"3","Akemi Ohira","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in Printmaking","Works On Paper",Closed,30,30,0
+10256,BIOL,4585,001,SEM,"2","Rachana Bhave","MoTuWeThFr 10:00am - 2:00pm","Web-Based Course","Selected Topics in Biology","The Evolution of Mating Systems",Open,12,20,0
+10257,BIOL,4585,002,SEM,"2","Liza Mitchem","MoTuWeThFr 10:00am - 2:00pm","Web-Based Course","Selected Topics in Biology","Evolution in the Media",Open,17,20,0
+10069,BME,6550,001,Lecture,"1","Jonathan Rosen","TBA","TBA","Special Topics in Biomedical Engineering","Biomedical Data Systems",Open,13,15,0
+10123,CE,4500,001,Lecture,"3","Bethany Gordon, Sadegh Eghdami","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in Civil Engineering","Engineering Social Justice",Open,9,15,0
+10442,CE,4500,002,Lecture,"3","Robert Riggs","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in Civil Engineering","Introduction to Lean Enterprise and Six Sigma",Open,4,10,0
+10444,CHEM,3951,001,IND,"1 - 3","Laura Serbulea","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Undergraduate Research I","",Open,0,15,0
+10041,COMM,3845,001,Lecture,"3","William Wilkerson","MoTuWeThFrSa 10:00am - 4:15pm","Web-Based Course","Foundations of International Business","",Open,16,20,0
+10127,COMM,4559,001,Lecture,"3","Stefano Grazioli","MoTuWeThFr 9:00am - 3:00pm","Web-Based Course","New Course in Commerce","Digital Innovation - Special Topics",Open,23,30,0
+10150,DS,4002,001,Lecture,"3","Brian Wright","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Data Science Project Course","",Closed,19,19,0
+10149,EDHS,3210,001,Lecture,"3","Paul Harris","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","The Black Student Athlete: Readiness vs Eligibility","",Open,39,45,0
+10065,EDIS,2920,001,Lecture,"3","Jennifer Maeng","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Debunking Classroom Myths","",Closed,20,20,0
+10110,ELA,1559,001,Lecture,"3","Everette Fortner","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Engaging the Liberal Arts","Designing Your Life After COVID-19",Open,148,200,0
+10433,ELA,2910,002,SEM,"3","Karlin Luedtke","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Academic Adulting: Metacognitive Learning Strategies and Critical Thinking","",Open,17,25,0
+10112,ENCW,4830,001,WKS,"3","Lisa Russ Spaar","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Advanced Poetry Writing I","",Open,13,15,0
+10113,ENGL,1910,001,Lecture,"3","Margaret Gardiner","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Public Speaking","",Open,16,18,0
+10135,ENGR,2595,100,Lecture,"3","David Leblang, Roseanne Ford","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in Engineering","Pandemics Beyond The Headlines: COVID-19",Open,60,100,0
+10259,ENGR,2595,101,Discussion,"0","Akhil Sai Peddireddy","TBA","TBA","Special Topics in Engineering","Pandemics Beyond The Headlines: COVID-19",Open,6,30,0
+10260,ENGR,2595,102,Discussion,"0","Alexis Jihye Yang","TBA","TBA","Special Topics in Engineering","Pandemics Beyond The Headlines: COVID-19",Open,4,30,0
+10261,ENGR,2595,103,Discussion,"0","Amanda Rosensky","TBA","TBA","Special Topics in Engineering","Pandemics Beyond The Headlines: COVID-19",Open,0,30,0
+10262,ENGR,2595,104,Discussion,"0","Amelia Kirby","TBA","TBA","Special Topics in Engineering","Pandemics Beyond The Headlines: COVID-19",Open,1,30,0
+10263,ENGR,2595,105,Discussion,"0","Ashley Scurlock","TBA","TBA","Special Topics in Engineering","Pandemics Beyond The Headlines: COVID-19",Open,3,30,0
+10264,ENGR,2595,106,Discussion,"0","Buckley Dowdle","TBA","TBA","Special Topics in Engineering","Pandemics Beyond The Headlines: COVID-19",Open,8,30,0
+10265,ENGR,2595,107,Discussion,"0","Caroline Schweitzer","TBA","TBA","Special Topics in Engineering","Pandemics Beyond The Headlines: COVID-19",Closed,6,20,0
+10336,ENGR,2595,108,Discussion,"0","Catherine Elmore","TBA","TBA","Special Topics in Engineering","Pandemics Beyond The Headlines: COVID-19",Open,12,30,0
+10337,ENGR,2595,109,Discussion,"0","Clair McLafferty","TBA","TBA","Special Topics in Engineering","Pandemics Beyond The Headlines: COVID-19",Open,9,30,0
+10338,ENGR,2595,110,Discussion,"0","Donnelly Phillips","TBA","TBA","Special Topics in Engineering","Pandemics Beyond The Headlines: COVID-19",Open,5,30,0
+10339,ENGR,2595,111,Discussion,"0","Helen Sporkin","TBA","TBA","Special Topics in Engineering","Pandemics Beyond The Headlines: COVID-19",Open,6,30,0
+10137,ENWR,2520,100,Lecture,"3","Stephen Parks","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,387,480,0
+10240,ENWR,2520,101,Discussion,"0","Catherine Blume","TBA","TBA","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,27,30,0
+10241,ENWR,2520,102,Discussion,"0","Hannah Loeb","TBA","TBA","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,24,30,0
+10242,ENWR,2520,103,Discussion,"0","James Davis","TBA","TBA","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,21,30,0
+10243,ENWR,2520,104,Discussion,"0","John Modica","TBA","TBA","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,28,30,0
+10244,ENWR,2520,105,Discussion,"0","Katie Campbell","TBA","TBA","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,26,30,0
+10245,ENWR,2520,106,Discussion,"0","Lloyd Sy","TBA","TBA","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,28,30,0
+10246,ENWR,2520,107,Discussion,"0","Lucia Alden","TBA","TBA","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,12,20,0
+10327,ENWR,2520,108,Discussion,"0","Mary Ruth Robinson","TBA","TBA","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,26,30,0
+10328,ENWR,2520,109,Discussion,"0","Michelle Gottschlich","TBA","TBA","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,24,30,0
+10329,ENWR,2520,110,Discussion,"0","Cherrie Kwok","TBA","TBA","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,22,30,0
+10330,ENWR,2520,111,Discussion,"0","Nathan Frank","TBA","TBA","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,21,30,0
+10384,ENWR,2520,112,Discussion,"0","Richard Milby","TBA","TBA","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,25,30,0
+10385,ENWR,2520,113,Discussion,"0","Sally Bonsall","TBA","TBA","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,28,30,0
+10386,ENWR,2520,114,Discussion,"0","Sarah Berkowitz","TBA","TBA","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,23,30,0
+10387,ENWR,2520,115,Discussion,"0","Suzie Eckl","TBA","TBA","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,25,30,0
+10388,ENWR,2520,116,Discussion,"0","James Ascher","TBA","TBA","Special Topics in Writing","Global Advocacy, Democracy, and Public Narrative",Open,27,30,0
+10285,EVSC,4050,001,Lecture,"3","Stephen Macko","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Topics in Oceanography","",Open,39,40,0
+10290,FREN,3559,001,Lecture,"3","Lova Rajaonarisoa","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in French Literature and General Linguistics","French for Diplomacy",Closed,12,12,0
+10272,FREN,4585,001,Lecture,"3","Elizabeth Hall","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Advanced Topics in Cultural Studies","Artistic & Social Movements in 20th/21st France",Open,20,25,0
+10070,GBUS,7210,001,Lecture,"1.5","Brian Moriarty","MoWeTh 8:00am - 9:25am","Web-Based Course","Leadership Communication","",Open,26,50,0
+10071,GBUS,7210,002,Lecture,"1.5","Marc Modica","MoWeTh 8:00am - 9:25am","Web-Based Course","Leadership Communication","",Open,27,50,0
+10072,GBUS,8156,001,Lecture,"1.5","Morela Hernandez","MoTuWeThFr 8:00am - 5:00pm","Web-Based Course","Creating a New Normal","",Open,9,50,0
+10031,GBUS,8439,001,Lecture,"1.5","Robert Smelick","MoTuWeThFr 10:30am - 5:30pm","Web-Based Course","Leadership and Cultures of Trust & Innovation","",Open,47,75,0
+10036,GBUS,8517,001,Lecture,"1.5","Marc Modica","TBA","TBA","Addressing Tough Problems in Business and Society-India","",Open,0,50,0
+10033,GBUS,8620,001,Lecture,"1.5","Kim Whitler","MoTuWeThFr 8:00am - 5:00pm","Web-Based Course","Brand Management: Creative, Testing & Analyzing New Brand Strategies","",Open,59,75,0
+10034,GBUS,8633,001,Lecture,"1.5","Alexander Cowan","MoTuWeThFr 10:00am - 6:25pm","Web-Based Course","Software Development","",Open,16,65,0
+10035,GBUS,8645,001,Lecture,"1.5","June West, Paul Simko","MoTuWeThFr 8:00am - 5:00pm","TBA","Honor the Trad of Past While Confront the Chall of the Future-Dubai/Bahrain","",Open,0,50,0
+10073,GBUS,8698,001,IND,"3","Timothy Laseter","TBA","TBA","Global Consulting Project II","",Open,22,50,0
+10032,GBUS,8721,001,Lecture,"1.5","Shane Dikolli","TBA","TBA","Australia-Local Culture and International Business Expansion","",Open,0,50,0
+10286,GNUR,5390,001,SEM,"3","Rick Mayes","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Introduction to the U.S. Health Care System","",Closed,20,20,0
+10126,GNUR,6559,001,Lecture,"1 - 3","Julie Haizlip","TBA","TBA","New Course in Graduate Nursing","Providing Healthcare for LGBTQ+ Individuals",Open,3,30,0
+10116,GSGS,2211,001,Lecture,"3","James La Fleur","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Environment, Health, and Development in Africa","",Closed,21,20,0
+10287,GSGS,2559,001,Lecture,"3","Chris Colvin, Francesca Calamita, Len Schoppa","MoTuWeThFr 11:00am - 4:00pm","Web-Based Course","New Course in Global Studies","Global Challenges, Local Responses",Open,76,100,0
+10117,GSGS,4559,001,Lecture,"3","David Edmunds","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Global Studies","Topics in Global Research",Open,40,45,0
+10118,GSGS,4559,002,Lecture,"3","Noel Lobley","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Global Studies","Arts Activism, Liberated Spaces",Open,31,50,0
+10094,HIEA,3141,001,Lecture,"3","Bradly Reed","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Political and Social Thought in Modern China","",Closed,18,20,0
+10095,HIST,2559,001,Lecture,"3","Jeffrey Rossman","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in General History","Interpreting Genocide and Its Perpetrators",Open,15,20,0
+10133,HIST,2559,200,Lecture,"3","Siva Vaidhyanathan, William Hitchcock","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in General History","Democracy in Danger",Open,245,290,0
+10167,HIST,2559,201,Discussion,"0","Amy Fedeski","TBA","TBA","New Course in General History","Democracy in Danger",Open,23,30,0
+10168,HIST,2559,202,Discussion,"0","Asher Caplan","TBA","TBA","New Course in General History","Democracy in Danger",Closed,26,30,0
+10169,HIST,2559,203,Discussion,"0","Creighton Coleman","TBA","TBA","New Course in General History","Democracy in Danger",Open,16,30,0
+10170,HIST,2559,204,Discussion,"0","Emily Perkins","TBA","TBA","New Course in General History","Democracy in Danger",Open,20,30,0
+10171,HIST,2559,205,Discussion,"0","Jordan Armstrong","TBA","TBA","New Course in General History","Democracy in Danger",Closed,26,30,0
+10172,HIST,2559,206,Discussion,"0","Kyle Nicholas","TBA","TBA","New Course in General History","Democracy in Danger",Open,21,30,0
+10173,HIST,2559,207,Discussion,"0","Lauren Considine","TBA","TBA","New Course in General History","Democracy in Danger",Closed,20,20,0
+10333,HIST,2559,210,Discussion,"0","Sunggun Park","TBA","TBA","New Course in General History","Democracy in Danger",Open,17,23,0
+10334,HIST,2559,211,Discussion,"0","Claire Brisson","TBA","TBA","New Course in General History","Democracy in Danger",Open,24,30,0
+10341,HIST,2559,212,Discussion,"0","Meghan Clancy","TBA","TBA","New Course in General History","Democracy in Danger",Open,17,20,0
+10342,HIST,2559,213,Discussion,"0","Morgan Maloney","TBA","TBA","New Course in General History","Democracy in Danger",Open,23,28,0
+10343,HIST,2559,214,Discussion,"0","Niki Hendi","TBA","TBA","New Course in General History","Democracy in Danger",Open,12,30,0
+10141,HIST,2559,300,Lecture,"3","Andrew Kahrl, Jalane Schmidt","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in General History","Whiteness: History of a Racial Category",Open,114,210,0
+10218,HIST,2559,301,Discussion,"0","Ariana Rivens","TBA","TBA","New Course in General History","Whiteness: History of a Racial Category",Open,14,30,0
+10219,HIST,2559,302,Discussion,"0","Jacqueline Sahagian","TBA","TBA","New Course in General History","Whiteness: History of a Racial Category",Open,16,30,0
+10220,HIST,2559,303,Discussion,"0","Kelvin Parnell","TBA","TBA","New Course in General History","Whiteness: History of a Racial Category",Open,12,30,0
+10221,HIST,2559,304,Discussion,"0","Kevin Rose","TBA","TBA","New Course in General History","Whiteness: History of a Racial Category",Open,22,30,0
+10222,HIST,2559,305,Discussion,"0","Sally Duncan","TBA","TBA","New Course in General History","Whiteness: History of a Racial Category",Open,19,30,0
+10223,HIST,2559,306,Discussion,"0","Shelly Tilton","TBA","TBA","New Course in General History","Whiteness: History of a Racial Category",Open,23,30,0
+10224,HIST,2559,307,Discussion,"0","Monica Blair","TBA","TBA","New Course in General History","Whiteness: History of a Racial Category",Open,8,20,0
+10057,ISHU,3901,101,Lecture,"3","Christie Mendoza McCall","MoTuWeThFr 6:00pm - 10:00pm","Web-Based Course-No class mtgs","Dance: Anthropological Origins of Dance and Music in World Cultures","",Open,17,25,0
+10058,ISSS,3820,101,Lecture,"3","Steven Laymon","Mo 1:02am - 1:03am","Web-Based Course-No class mtgs","American National Identity","",Closed,26,25,0
+10096,JAPN,1559,001,Lecture,"3","Tomoko Marshall","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Japanese","Accelerated 1st Year Japanese",Open,9,12,0
+10407,KINE,3400,001,Lecture,"3","Sibylle Kranz","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Nutrition","",Closed,20,20,0
+10004,LAW,7600,1ZO,Lecture,"1","George Rutherglen","TuWeThFr 9:00am - 12:00pm","Web-Based Course","Admiralty (SC)","",Open,6,12,0
+10007,LAW,7610,1ZO,Lecture,"1","Malik Laazouzi, Marie Gore","MoTuWeThFr 10:00am - 12:00pm","Web-Based Course","French Public and Private Law (SC)","",Open,5,20,0
+10001,LAW,7624,1ZO,Lecture,"1","A. E. Howard","TuWeThFr 9:00am - 12:00pm","Web-Based Course","Virginia and the Constitution (SC)","",Open,11,16,0
+10010,LAW,7645,1ZO,Lecture,"1","John Setear","TuWeThFr 1:00pm - 4:00pm","Web-Based Course","Baseball (SC)","",Open,12,16,0
+10002,LAW,7692,1ZO,Lecture,"1","Hunter Kendrick, Molly Shadel, Robert Sayler","TuWeThFr 9:30am - 12:00pm","Web-Based Course","Persuasion (SC)","",Open,22,30,0
+10003,LAW,7702,1ZO,Lecture,"1","Quinn Curtis, Rob Masri","TuWeThFr 9:00am - 12:00pm","Web-Based Course","Legal Practice and the Startup Company: An Inside Look (SC)","",Open,11,16,0
+10023,LAW,7721,1ZO,Lecture,"1","Abraham Sutherland, Michael Gilbert","TuWeThFr 9:00am - 12:00pm","Web-Based Course","Building the Rule of Law (SC)","",Open,7,16,0
+10029,LAW,7748,1ZO,Lecture,"1","Ruth Mason","TuWeThFr 9:00am - 12:00pm","Web-Based Course","Tax Discrimination (SC)","",Open,2,16,0
+10009,LAW,7788,1ZO,Lecture,"1","Jed Rakoff","TuWeThFr 9:00am - 12:00pm","Web-Based Course","Science and the Courts (SC)","",Open,7,16,0
+10016,LAW,7797,1ZO,Lecture,"1","Andrew Hayashi, Howard Wachtel","TuWeThFr 9:00am - 12:00pm","Web-Based Course","Sanctions and Boycotts (SC)","",Open,8,16,0
+10019,LAW,7805,1ZO,SEM,"1","Amul Thapar, Andrew Oldham","Fr 9:00am - 12:00pm","Web-Based Course","Founders and Foes (SC)","",Closed,12,12,0
+10024,LAW,7814,1ZO,SEM,"1","Cynthia Nicoletti, Julia Mahoney","TuWeThFr 9:00am - 12:00pm","Web-Based Course","Eminent Domain, Expropriation, and Emergency Action (SC)","",Open,10,16,0
+10028,LAW,7823,1ZO,SEM,"1","Khiara Bridges","TuWeThFr 1:00pm - 4:00pm","Web-Based Course","Reproductive Rights and Justice (SC)","",Open,5,16,0
+10061,LAW,7826,1ZO,Lecture,"1","Megan Stevenson","TuWeThFr 1:00pm - 4:00pm","Web-Based Course","Truth, Lies and Statistics for Lawyers (SC)","",Open,12,18,0
+10011,LAW,8829,1,PRA,"1","TBA","TBA","TBA","JT Externship: Field Experience (SC)","",Open,0,1,0
+10012,LAW,8830,1,IND,"1","TBA","TBA","TBA","JT Externship: Directed Study (SC)","",Open,0,1,0
+10411,LAW,9351,1ZO,SEM,"1","Dahlia Lithwick, Melissa Murray","TuWeThFr 1:00pm - 4:00pm","Web-Based Course","The Supreme Court: Before, During, and After Ruth Bader Ginsburg (SC)","",Open,10,16,0
+10120,LPPL,2001,001,Lecture,"3","Evan Bruno, Gabrielle Adams, James Detert","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Leadership in Athletics","",Open,36,50,0
+10050,LPPP,3500,001,Lecture,"3","Kathryn Babineau","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in Social Entrepreneurship","Corporate Social Responsibilty",Open,26,50,0
+10051,LPPP,3500,002,Lecture,"3","Stephanie Randolph","MoTuWeThFrSa 8:00am - 8:00pm","TBA","Special Topics in Social Entrepreneurship","Impact Investing in Action: Appalachia",Closed,18,14,0
+10284,LPPP,5500,001,SEM,"3","Kathryn Babineau","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics","Corporate Social Responsibilty",Closed,2,1,0
+10128,LPPS,3559,001,Lecture,"3","Brendan Boler, David Lapinski","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Public Policy and Leadership","Intro to Mngmt Consulting&Strategic DecisionMaking",Open,41,50,0
+10174,MDST,2559,200,Lecture,"3","Siva Vaidhyanathan, William Hitchcock","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Media Studies","Democracy in Danger",Open,47,70,0
+10175,MDST,2559,201,Discussion,"0","Amy Fedeski","TBA","TBA","New Course in Media Studies","Democracy in Danger",Open,3,30,0
+10176,MDST,2559,202,Discussion,"0","Asher Caplan","TBA","TBA","New Course in Media Studies","Democracy in Danger",Closed,4,30,0
+10177,MDST,2559,203,Discussion,"0","Creighton Coleman","TBA","TBA","New Course in Media Studies","Democracy in Danger",Open,9,30,0
+10178,MDST,2559,204,Discussion,"0","Emily Perkins","TBA","TBA","New Course in Media Studies","Democracy in Danger",Open,6,30,0
+10179,MDST,2559,205,Discussion,"0","Jordan Armstrong","TBA","TBA","New Course in Media Studies","Democracy in Danger",Closed,4,30,0
+10180,MDST,2559,206,Discussion,"0","Kyle Nicholas","TBA","TBA","New Course in Media Studies","Democracy in Danger",Open,8,30,0
+10181,MDST,2559,207,Discussion,"0","Lauren Considine","TBA","TBA","New Course in Media Studies","Democracy in Danger",Closed,4,20,0
+10430,MDST,2559,208,Discussion,"0","Meghan Clancy","TBA","TBA","New Course in Media Studies","Democracy in Danger",Open,8,12,0
+10432,MDST,2559,210,Discussion,"0","Sunggun Park","TBA","TBA","New Course in Media Studies","Democracy in Danger",Open,1,9,0
+10097,MDST,3320,001,SEM,"3","Bruce Williams","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","The Politics of Video Games","",Closed,18,20,0
+10098,MDST,3502,001,SEM,"3","Matthew Marshall","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in Film Genre","The Horror Film",Open,176,180,0
+10119,MDST,3504,001,SEM,"3","Aswin Punathambekar","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Topics in Global Media","Bollywood and Beyond",Closed,25,25,0
+10281,MDST,3505,001,SEM,"3","Andrea Press","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in Diversity and Identity in Media","Gender, Society, Film",Open,23,30,0
+10099,MDST,3559,100,Lecture,"3","Camilla Fojas, Shilpa Dave","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Media Studies","Race, Protest and the Media",Open,157,210,0
+10233,MDST,3559,101,Discussion,"0","Ana Tobar-Romero","TBA","TBA","New Course in Media Studies","Race, Protest and the Media",Open,23,30,0
+10234,MDST,3559,102,Discussion,"0","Lauren Van De Hey","TBA","TBA","New Course in Media Studies","Race, Protest and the Media",Open,23,30,0
+10235,MDST,3559,103,Discussion,"0","Matthew Frank","TBA","TBA","New Course in Media Studies","Race, Protest and the Media",Open,24,30,0
+10236,MDST,3559,104,Discussion,"0","Michael Krieger","TBA","TBA","New Course in Media Studies","Race, Protest and the Media",Open,28,30,0
+10237,MDST,3559,105,Discussion,"0","Natale Fata","TBA","TBA","New Course in Media Studies","Race, Protest and the Media",Open,21,30,0
+10238,MDST,3559,106,Discussion,"0","Nia Baker","TBA","TBA","New Course in Media Studies","Race, Protest and the Media",Open,24,30,0
+10239,MDST,3559,107,Discussion,"0","Tracey Wang","TBA","TBA","New Course in Media Studies","Race, Protest and the Media",Open,14,20,0
+10100,MDST,3665,001,Laboratory,"3","Elizabeth Ellcessor","MoTuWeThFr 10:00am - 10:50am","Web-Based Course","Digital Media Accessibility","",Closed,20,20,0
+10406,MUSI,1559,001,Lecture,"3","Elizabeth Ozment","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Music","Music Video Analysis",Open,27,30,0
+10101,MUSI,2559,001,Lecture,"3","Nathan Moore","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Music","Sound Production & Storytelling",Open,22,25,0
+10440,MUSI,3570,001,Lecture,"3","Elizabeth Ozment","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Music Cultures","Music Video Analysis",Open,7,10,0
+10288,NURS,4559,001,Lecture,"3","Kimberly Acquaviva","MoTuWeThFrSa 10:00am - 3:00pm","Web-Based Course","New Course: Undergraduate Nursing","Sex in the Time of COVID-19",Open,27,30,0
+10258,PHIL,2500,002,Lecture,"3","Corin Fox","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Survey on a Philosophical Topic","Slurs, Bad Words, and Unruly Language",Closed,19,20,0
+10247,PHIL,2500,100,Lecture,"3","Erin Eaker, Rachel Most","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Survey on a Philosophical Topic","The Past, Present, and Future of Humankind",Open,147,160,0
+10248,PHIL,2500,101,Discussion,"0","Andrew Ebrahem","TBA","TBA","Survey on a Philosophical Topic","The Past, Present, and Future of Humankind",Open,27,30,0
+10249,PHIL,2500,102,Discussion,"0","Byron Clanor","TBA","TBA","Survey on a Philosophical Topic","The Past, Present, and Future of Humankind",Open,14,30,0
+10250,PHIL,2500,103,Discussion,"0","Charles Oswald","TBA","TBA","Survey on a Philosophical Topic","The Past, Present, and Future of Humankind",Open,13,30,0
+10251,PHIL,2500,104,Discussion,"0","Erica Krause","TBA","TBA","Survey on a Philosophical Topic","The Past, Present, and Future of Humankind",Open,12,30,0
+10252,PHIL,2500,105,Discussion,"0","Jennie Askew","TBA","TBA","Survey on a Philosophical Topic","The Past, Present, and Future of Humankind",Open,7,30,0
+10253,PHIL,2500,106,Discussion,"0","Jesse McCain","TBA","TBA","Survey on a Philosophical Topic","The Past, Present, and Future of Humankind",Open,14,30,0
+10254,PHIL,2500,107,Discussion,"0","Lauren Van Nest","TBA","TBA","Survey on a Philosophical Topic","The Past, Present, and Future of Humankind",Open,10,30,0
+10369,PHIL,2500,108,Discussion,"0","Mary Wilks","TBA","TBA","Survey on a Philosophical Topic","The Past, Present, and Future of Humankind",Open,17,30,0
+10371,PHIL,2500,110,Discussion,"0","William Welchance","TBA","TBA","Survey on a Philosophical Topic","The Past, Present, and Future of Humankind",Open,25,30,0
+10416,PHIL,2500,111,Discussion,"0","Mingyun Zhang","TBA","TBA","Survey on a Philosophical Topic","The Past, Present, and Future of Humankind",Open,8,30,0
+10439,PHS,8880,001,PRA,"1 - 3","Kristen Wells","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Integrative Learning RP Part 1","",Open,1,3,0
+10438,PHS,8881,001,PRA,"1 - 3","Heather Zelle","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Integrative Learning HP Part 1","",Open,1,3,0
+10446,PHS,8881,002,PRA,"1 - 3","Aaron Pannone","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Integrative Learning HP Part 1","",Open,1,30,0
+10289,PHS,8930,001,PRA,"3","Kristen Wells","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Integrative Learning Experience RP Part 2","",Open,1,2,0
+10108,PHYS,1130,001,Lecture,"3","Richard Lindgren","MoTuWeThFr 9:30am - 4:00pm","Web-Based Course","Physics of Sports","",Open,48,60,0
+10121,PHYS,2559,001,Lecture,"3","Atsushi Yoshida, Kento Yagi","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Physics","Gravity and Cosmology",Open,16,50,0
+10122,PHYS,2559,002,Lecture,"3","Robert Hirosky","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Physics","Particle Physics Detectors and Simulations",Open,42,50,0
+10136,PLAD,2500,100,Lecture,"3","David Leblang, Roseanne Ford","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,431,500,0
+10182,PLAD,2500,101,Discussion,"0","Akhil Sai Peddireddy","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,23,30,0
+10183,PLAD,2500,102,Discussion,"0","Alexis Jihye Yang","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,23,30,0
+10184,PLAD,2500,103,Discussion,"0","Amanda Rosensky","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,29,30,0
+10185,PLAD,2500,104,Discussion,"0","Amelia Kirby","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,28,30,0
+10186,PLAD,2500,105,Discussion,"0","Ashley Scurlock","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,25,30,0
+10187,PLAD,2500,106,Discussion,"0","Buckley Dowdle","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,16,30,0
+10188,PLAD,2500,107,Discussion,"0","Caroline Schweitzer","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Closed,16,20,0
+10309,PLAD,2500,108,Discussion,"0","Catherine Elmore","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,17,30,0
+10310,PLAD,2500,109,Discussion,"0","Clair McLafferty","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,25,30,0
+10311,PLAD,2500,110,Discussion,"0","Donnelly Phillips","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,22,30,0
+10312,PLAD,2500,111,Discussion,"0","Helen Sporkin","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,26,30,0
+10357,PLAD,2500,112,Discussion,"0","Jack Larkin","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,27,30,0
+10358,PLAD,2500,113,Discussion,"0","John Green","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,25,30,0
+10359,PLAD,2500,114,Discussion,"0","Kyle Connors","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,29,30,0
+10360,PLAD,2500,115,Discussion,"0","Monica Marciano","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Closed,30,30,0
+10361,PLAD,2500,116,Discussion,"0","Ruixing Cao","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,14,30,0
+10362,PLAD,2500,117,Discussion,"0","Jeffrey Thomas Roberts","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,15,30,0
+10363,PLAD,2500,118,Discussion,"0","Tyler Wittman","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,16,30,0
+10364,PLAD,2500,119,Discussion,"0","Xin-Huiyu Liu","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,12,30,0
+10367,PLAD,2500,122,Discussion,"0","Katarina Naworol, Nora Surbey","TBA","TBA","Special Topics in Politics","Pandemics Beyond the Headlines: COVID-19",Open,13,30,0
+10441,PLAD,5993,001,IND,"1 - 3","Kevin Duong","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Independent Study","",Open,0,2,0
+10130,PLAN,3500,001,Lecture,"3","Jessica Sewell","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in Planning","Race,Redlining,& Redevlpmnt:LegacyRacializedCities",Open,19,20,0
+10408,PLAN,3500,002,Lecture,"3","Cho Wun Ma, Matthew Slaats","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in Planning","The Design of Protest",Open,8,30,0
+10293,PLAN,3810,200,Lecture,"3","Barbara Wilson, Jeana Ripple","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Climate Justice in Cities","",Open,56,200,0
+10294,PLAN,3810,201,Discussion,"0","Asriyanti Karma","TBA","TBA","Climate Justice in Cities","",Open,1,30,0
+10295,PLAN,3810,202,Discussion,"0","Elizabeth Chung","TBA","TBA","Climate Justice in Cities","",Open,6,30,0
+10296,PLAN,3810,203,Discussion,"0","Hayley Elszasz","TBA","TBA","Climate Justice in Cities","",Open,10,30,0
+10297,PLAN,3810,204,Discussion,"0","Jessica Smith","TBA","TBA","Climate Justice in Cities","",Open,8,30,0
+10298,PLAN,3810,205,Discussion,"0","Michael Salgueiro","TBA","TBA","Climate Justice in Cities","",Open,5,30,0
+10299,PLAN,3810,206,Discussion,"0","Lauren McQuistion","TBA","TBA","Climate Justice in Cities","",Open,14,30,0
+10300,PLAN,3810,207,Discussion,"0","Catherine Owsik","TBA","TBA","Climate Justice in Cities","",Open,12,20,0
+10103,PLAP,3160,001,SEM,"3","Paul Freedman","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Politics of Food","",Closed,35,30,0
+10104,PLAP,3500,001,Lecture,"3","James Todd","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in American Politics","Contemporary Issues Under the First Amendment",Open,19,20,0
+10106,PLCP,3240,001,Lecture,"3","Yuri Urbanovich","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Post Soviet Political Challenges","",Closed,24,25,0
+10105,PLIR,3500,001,Lecture,"3","John Setear","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in International Relations","Counterfactuals and Conflict",Closed,11,12,0
+10273,PSYC,2559,100,Lecture,"3","Hudson Golino, Mariana Golino","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Psychology","Cognition and Cognitive Biases",Open,433,450,0
+10274,PSYC,2559,101,Discussion,"0","Alexandra Biazzo","TBA","TBA","New Course in Psychology","Cognition and Cognitive Biases",Closed,30,30,0
+10275,PSYC,2559,102,Discussion,"0","Angie Osorio Limas","TBA","TBA","New Course in Psychology","Cognition and Cognitive Biases",Closed,30,30,0
+10276,PSYC,2559,103,Discussion,"0","Cece Garner","TBA","TBA","New Course in Psychology","Cognition and Cognitive Biases",Closed,30,30,0
+10277,PSYC,2559,104,Discussion,"0","Corey Pettit","TBA","TBA","New Course in Psychology","Cognition and Cognitive Biases",Closed,30,30,0
+10278,PSYC,2559,105,Discussion,"0","Jeremy Eberle","TBA","TBA","New Course in Psychology","Cognition and Cognitive Biases",Open,27,30,0
+10279,PSYC,2559,106,Discussion,"0","Lane Spears","TBA","TBA","New Course in Psychology","Cognition and Cognitive Biases",Open,29,30,0
+10280,PSYC,2559,107,Discussion,"0","Lee Leboeuf","TBA","TBA","New Course in Psychology","Cognition and Cognitive Biases",Open,27,30,0
+10313,PSYC,2559,108,Discussion,"0","Nava Caluori","TBA","TBA","New Course in Psychology","Cognition and Cognitive Biases",Open,28,30,0
+10314,PSYC,2559,109,Discussion,"0","Nidhi Manu","TBA","TBA","New Course in Psychology","Cognition and Cognitive Biases",Open,28,30,0
+10315,PSYC,2559,110,Discussion,"0","Rylee Fennell","TBA","TBA","New Course in Psychology","Cognition and Cognitive Biases",Open,29,30,0
+10316,PSYC,2559,111,Discussion,"0","Shelly Zhang","TBA","TBA","New Course in Psychology","Cognition and Cognitive Biases",Closed,30,30,0
+10392,PSYC,2559,112,Discussion,"0","Tejaswini Gupta","TBA","TBA","New Course in Psychology","Cognition and Cognitive Biases",Open,29,30,0
+10393,PSYC,2559,113,Discussion,"0","Stephanie Metherall","TBA","TBA","New Course in Psychology","Cognition and Cognitive Biases",Closed,30,30,0
+10394,PSYC,2559,114,Discussion,"0","Jaliah Richardson","TBA","TBA","New Course in Psychology","Cognition and Cognitive Biases",Open,28,30,0
+10395,PSYC,2559,115,Discussion,"0","Liana Elopre","TBA","TBA","New Course in Psychology","Cognition and Cognitive Biases",Open,28,30,0
+10396,PSYC,2559,116,Discussion,"0","TBA","TBA","TBA","New Course in Psychology","Cognition and Cognitive Biases",Open,0,30,0
+10107,PSYC,3210,001,Laboratory,"3","Erin Clabough","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","RM: Psychobiology Laboratory","",Open,20,24,0
+10255,PSYC,3500,001,SEM,"3","Seanna Leath","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in Psychology","Psychology of Black Racial Trauma",Open,47,50,0
+10129,PSYC,3559,001,Lecture,"3","Karen Schmidt, M. Joseph Meyer, Xin Tong","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Psychology","Analyzing Decision Making Using Regression Models",Open,21,30,0
+10142,PSYC,3559,200,Lecture,"3","James Morris, Jessica Connelly","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Psychology","How to Build a Healthy Human Brain",Open,562,600,0
+10144,PSYC,3559,201,Discussion,"0","Aleena Gula","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Closed,30,30,0
+10145,PSYC,3559,202,Discussion,"0","Amanda Hellwig","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Closed,30,30,0
+10146,PSYC,3559,203,Discussion,"0","Cabell Williams","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Closed,30,30,0
+10147,PSYC,3559,204,Discussion,"0","Christina Carroll","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Open,29,30,0
+10148,PSYC,3559,205,Discussion,"0","Courtney Newman","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Open,29,30,0
+10156,PSYC,3559,206,Discussion,"0","Cullen Williams","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Open,29,30,0
+10157,PSYC,3559,207,Discussion,"0","Emma Willis","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Closed,22,20,0
+10302,PSYC,3559,208,Discussion,"0","Erin Kastar","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Open,29,30,0
+10303,PSYC,3559,209,Discussion,"0","Francesca Sciaccotta","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Open,25,30,0
+10304,PSYC,3559,210,Discussion,"0","Grace Katalinich","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Open,27,30,0
+10305,PSYC,3559,211,Discussion,"0","Gregory Glasgow","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Open,27,30,0
+10306,PSYC,3559,212,Discussion,"0","Hayley Parks","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Open,27,30,0
+10307,PSYC,3559,213,Discussion,"0","Johanna Chajes","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Open,27,30,0
+10308,PSYC,3559,214,Discussion,"0","Kendra Liu","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Open,28,30,0
+10356,PSYC,3559,215,Discussion,"0","Latifa Hasan","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Open,27,30,0
+10372,PSYC,3559,216,Discussion,"0","Meghan Costello","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Closed,30,30,0
+10373,PSYC,3559,217,Discussion,"0","Samantha Brindley","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Open,29,30,0
+10374,PSYC,3559,218,Discussion,"0","Samantha Moseley","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Open,28,30,0
+10375,PSYC,3559,219,Discussion,"0","Tiana Hairston","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Closed,30,30,0
+10403,PSYC,3559,220,Discussion,"0","William Garrison","TBA","TBA","New Course in Psychology","How to Build a Healthy Human Brain",Open,29,30,0
+10074,RELA,3559,001,Lecture,"3","Oludamini Ogunnaike","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in African Religions","African Philosophy, Race, and Rationality",Open,14,15,0
+10139,RELB,2165,100,Lecture,"3","David Germano, Kurtis Schaeffer","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Buddhist Meditation and the Modern Secular World","",Open,371,660,0
+10204,RELB,2165,101,Discussion,"0","Adam Liddle","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,21,30,0
+10205,RELB,2165,102,Discussion,"0","Alexis Stanton","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,20,30,0
+10206,RELB,2165,103,Discussion,"0","Ame Wren","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,17,30,0
+10207,RELB,2165,104,Discussion,"0","Andrew Taylor","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,16,30,0
+10208,RELB,2165,105,Discussion,"0","Blaine Patrick Werner","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,17,30,0
+10209,RELB,2165,106,Discussion,"0","Christopher Hiebert","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,18,30,0
+10210,RELB,2165,107,Discussion,"0","Devin Zuckerman","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,21,30,0
+10319,RELB,2165,108,Discussion,"0","Eliot Davenport","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,19,30,0
+10320,RELB,2165,109,Discussion,"0","Heather Moody","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,18,30,0
+10321,RELB,2165,110,Discussion,"0","James MacNee","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,16,30,0
+10322,RELB,2165,111,Discussion,"0","Joseph Wysocki","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,14,30,0
+10323,RELB,2165,112,Discussion,"0","Kali Cape","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,16,30,0
+10324,RELB,2165,113,Discussion,"0","Kathryn Bennington","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,0,30,0
+10325,RELB,2165,114,Discussion,"0","Lucy Fitzgerald","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,17,30,0
+10326,RELB,2165,115,Discussion,"0","Matthew Drew","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,18,30,0
+10401,RELB,2165,116,Discussion,"0","Megan Carpenter","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,18,30,0
+10412,RELB,2165,118,Discussion,"0","Rachel Barnes","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,19,30,0
+10413,RELB,2165,119,Discussion,"0","Samuel Grimes","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,17,30,0
+10414,RELB,2165,120,Discussion,"0","Sana Azmat","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,15,30,0
+10415,RELB,2165,121,Discussion,"0","Shannon Griffin","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,17,30,0
+10434,RELB,2165,122,Discussion,"0","Naomi Worth","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,17,30,0
+10435,RELB,2165,123,Discussion,"0","Andrew Eaton","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,0,30,0
+10436,RELB,2165,124,Discussion,"0","Kathryn Webb-Destefano","TBA","TBA","Buddhist Meditation and the Modern Secular World","",Open,20,30,0
+10075,RELB,2900,001,Lecture,"3","Sonam Kachru","MoTuWeThFr 9:00am - 3:00pm","Web-Based Course","Buddhist Meditation Traditions","",Closed,30,30,0
+10076,RELG,2559,001,Lecture,"3","Jane Mikkelson","MoTuWeThFr 9:00am - 3:00pm","Web-Based Course","New Course in Religious Studies","Devotional Poetry: Religion and Literature",Open,39,40,0
+10140,RELG,2559,200,Lecture,"3","Andrew Kahrl, Jalane Schmidt","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Religious Studies","Whiteness: History of a Racial Category",Open,34,45,0
+10211,RELG,2559,201,Discussion,"0","Ariana Rivens","TBA","TBA","New Course in Religious Studies","Whiteness: History of a Racial Category",Open,6,30,0
+10212,RELG,2559,202,Discussion,"0","Jacqueline Sahagian","TBA","TBA","New Course in Religious Studies","Whiteness: History of a Racial Category",Open,9,30,0
+10213,RELG,2559,203,Discussion,"0","Kelvin Parnell","TBA","TBA","New Course in Religious Studies","Whiteness: History of a Racial Category",Open,5,30,0
+10214,RELG,2559,204,Discussion,"0","Kevin Rose","TBA","TBA","New Course in Religious Studies","Whiteness: History of a Racial Category",Open,6,30,0
+10215,RELG,2559,205,Discussion,"0","Sally Duncan","TBA","TBA","New Course in Religious Studies","Whiteness: History of a Racial Category",Open,2,30,0
+10216,RELG,2559,206,Discussion,"0","Shelly Tilton","TBA","TBA","New Course in Religious Studies","Whiteness: History of a Racial Category",Open,2,30,0
+10217,RELG,2559,207,Discussion,"0","Monica Blair","TBA","TBA","New Course in Religious Studies","Whiteness: History of a Racial Category",Open,4,20,0
+10077,RELG,3559,001,SEM,"3","Naveed Mansoori","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Religious Studies","Propaganda, Post-Truth Politics, & Rhetoric",Open,16,20,0
+10078,SLAV,2250,001,SEM,"3","Dariusz Tolczyk","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","The Dark Side of the 20th Century: Between Auschwitz & Gulag","",Open,24,30,0
+10079,SLAV,2360,001,Lecture,"3","Stanley Stepanic","MoTuWeThFr 10:30am - 4:30pm","Web-Based Course","Dracula","",Open,195,200,0
+10080,SOC,2498,001,Lecture,"3","Joseph Davis","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Prozac Culture","",Open,23,30,0
+10081,SOC,3056,001,Lecture,"3","Ian Mullins","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Culture and Power","",Closed,20,20,0
+10082,SPAN,2010,001,Lecture,"3","Adam Cohn","MoTuWeThFr 9:00am - 3:30pm","Web-Based Course","Intermediate Spanish","",Open,17,18,0
+10317,SPAN,2010,002,Lecture,"3","Jesus Jativa Fernandez","MoTuWeThFr 9:00am - 3:30pm","Web-Based Course","Intermediate Spanish","",Closed,17,18,0
+10083,SPAN,2020,001,Lecture,"3","Alison Posey","MoTuWeThFr 9:00am - 3:30pm","Web-Based Course","Advanced Intermediate Spanish","",Closed,17,18,0
+10318,SPAN,2020,002,Lecture,"3","Jesus Galindo Benitez","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Advanced Intermediate Spanish","",Closed,18,18,0
+10409,SPAN,2020,003,Lecture,"3","Maria Monteros-Freeman","MoTuWeThFr 9:00am - 3:30pm","Web-Based Course","Advanced Intermediate Spanish","",Closed,18,18,0
+10270,SPAN,3010,001,Lecture,"3","Maria Pilar Guitart Escudero","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Grammar and Composition I","",Closed,18,20,0
+10271,SPAN,3410,001,Lecture,"3","Carlos Marzal Navarro","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Survey of Spanish Literature II (1700 to Present)","",Closed,25,25,0
+10268,SPAN,4700,001,Lecture,"3","Jesus Peris-Llorca","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Spanish Culture and Civilization","",Open,22,25,0
+10368,SPAN,4704,001,Lecture,"3","J Valle-Aparicio","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Islamic Iberia","",Closed,25,25,0
+10301,SPAN,4705,001,Lecture,"3","Maria Del Puig Andres Sebastia","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Spanish Mass Media","",Closed,24,25,0
+10269,SPAN,4709,001,Lecture,"3","Enrique Pelaez","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Modern Spanish Art","",Closed,25,25,0
+10084,STAT,1601,001,Lecture,"3","Evan Bagley","MoTuWeThFr 10:00am - 4:00pm","Web-Based Course","Introduction to Data Science with R","",Closed,24,24,0
+10085,STAT,1601,002,Lecture,"3","Prince Afriyie","MoTuWeThFr 10:00am - 4:00pm","Web-Based Course","Introduction to Data Science with R","",Closed,89,90,0
+10125,STAT,3080,001,Lecture,"3","Richard Ross","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","From Data to Knowledge","",Closed,55,60,0
+10437,STAT,3220,001,Lecture,"3","Krista Varanyak","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Introduction to Regression Analysis","",Open,36,40,0
+10445,STAT,5993,001,IND,"1 - 3","Jeffrey Holt","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Directed Reading","",Open,0,30,0
+10405,STS,1800,001,Lecture,"3","Travis Elliott","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Business Fundamentals for Engineers","",Open,49,60,0
+10045,STS,2500,002,Lecture,"3","Benjamin Laugelli","MoTuWeThFrSa 9:30am - 2:30pm","TBA","Science and Technology in Social and Global Context","The LEGO Course: Engineering Design and Values",Closed,24,25,0
+10046,STS,2500,003,Lecture,"3","Robert Powers","MoTuWeThFrSa 9:30am - 3:30pm","TBA","Science and Technology in Social and Global Context","American Health Care: Challenges and Opportunities",Closed,32,25,0
+10048,STS,2500,004,Lecture,"3","Hannah Rogers","MoTuWeThFrSa 9:00am - 3:00pm","TBA","Science and Technology in Social and Global Context","A Sense of Place",Closed,23,20,0
+10410,STS,2500,005,Lecture,"3","Bryn Seabrook","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Science and Technology in Social and Global Context","Science, Technology, and Environment",Closed,24,25,0
+10418,STS,2500,006,Lecture,"3","Kathryn Neeley","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Science and Technology in Social and Global Context","Slavery as a Sociotechnical System",Closed,29,25,0
+10419,STS,2500,007,Lecture,"3","Matthew Henderson","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Science and Technology in Social and Global Context","Science & Technology in Popular Culture",Closed,26,25,0
+10404,STS,2740,001,Lecture,"3","Michael Gorman","MoTuWeThFr 10:00am - 4:00pm","Web-Based Course","Earth Systems Technology and Management","",Closed,24,24,0
+10124,SYS,4501,001,Lecture,"3","Bethany Gordon, Sadegh Eghdami","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Special Topics in Systems and Information Engineering","Engineering Social Justice",Open,6,15,0
+10443,SYS,4582,001,Lecture,"3","Robert Riggs","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Selected Topics in Systems Engineering","Introduction to Lean Enterprise and Six Sigma",Open,29,35,0
+10088,WGS,3210,001,Lecture,"3","Bonnie Hagerman","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Gender, Sport and Film","",Open,16,20,0
+10089,WGS,3559,001,SEM,"3","Abby Palko","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","New Course in Women, Gender and Sexuality","The Politics of Motherhood",Open,34,40,0
+10090,WGS,4800,001,SEM,"3","Lisa Speidel","MoTuWeThFr 10:00am - 3:00pm","Web-Based Course","Gender-Based Violence","",Closed,29,30,0

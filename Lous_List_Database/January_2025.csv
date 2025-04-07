@@ -1,0 +1,79 @@
+ClassNumber,Mnemonic,Number,Section,Type,Units,Instructor,Days,Room,Title,Topic,Status,Enrollment,EnrollmentLimit,Waitlist
+10134,AAS,2224,001,SEM,"3","Lisa Shutt","MoTuWeThFrSa 10:00am - 3:30pm","Web-Based Course","Black Femininities and Masculinities in the US Media","",Open,8,12,0
+10162,ARTH,2052,001,Lecture,"3","Anastasia Dakouri-Hild","MoTuWeThFrSa 10:00am - 2:00pm","Web-Based Course","Ancient Egypt","",Open,6,20,0
+10106,ARTS,2560,001,STO,"3","Akemi Ohira","MoTuWeThFrSa 10:00am - 3:30pm","Ruffin Hall 220","Special Topics in Printmaking: Works On/Of Paper","Works On Paper",Open,11,15,0
+10126,ARTS,2610,001,STO,"3","Maria Villanueva","MoTuWeThFrSa 9:30am - 3:00pm","Ruffin Hall 203","Drawing I","",Open,7,16,0
+10144,BIOL,4559,001,Lecture,"3","Antoine Perrier","MoTuWeThFrSa 10:00am - 3:30pm","Chemistry Bldg 206","New Course in Biology","Plants and Global Warming",Open,9,15,0
+10119,BIOL,4585,001,SEM,"3","Benedict Lenhart","MoTuWeThFrSa 10:00am - 3:30pm","Gilmer Hall 257","Selected Topics in Biology","Genetics of Metabolic Health",Open,18,20,0
+10153,BME,6550,001,Lecture,"2","Lloyd McMahon","MoTuWeThFrSa 10:30am - 12:00pm","Contact Department","Special Topics in Biomedical Engineering","Biomedical Design Practices",Open,13,17,0
+10156,CS,4993,001,IND,"1","Matthew Dwyer","TBA","TBA","Independent Study","",Closed,1,0,0
+10125,DS,4002,001,Lecture,"3","Brian Wright","MoTuWeThFrSa 10:00am - 3:30pm","Web-Based Course","Data Science Project","",Open,18,25,0
+10105,ENCW,4830,001,WKS,"3","Lisa Spaar","MoTuWeThFrSa 10:00am - 4:00pm","Bryan Hall 310","Advanced Poetry Writing I","",Open,8,12,0
+10128,ENGL,3559,001,Lecture,"3","Cristina Griffin","MoTuWeThFrSa 10:00am - 3:30pm","Bryan Hall 312","New Course in English Literature","A History of Romance",Open,10,15,0
+10123,ENWR,3500,001,SEM,"3","Rhiannon Goad","MoTuWeThFrSa 10:00am - 3:30pm","Bryan Hall 328","Topics in Advanced Writing & Rhetoric","Rhetoric of Documentary Films",Open,9,20,0
+10143,ENWR,3559,001,SEM,"3","Stephen Parks, Srda Popovic","MoTuWeThFrSa 10:00am - 3:45pm","Web-Based Course","New Course in Writing and Rhetoric","Rebuilding (and Expanding) Democracy",Open,13,15,0
+10139,EVSC,2850,001,Lecture,"3","Lauren Simkins","MoTuWeThFrSa 10:00am - 3:30pm","Chemistry Bldg 204","Polar Environments","",Open,14,20,0
+10145,EVSC,4050,001,Lecture,"3","Stephen Macko","MoTuWeThFrSa 10:00am - 3:30pm","Clark Hall G004","Topics in Oceanography","",Open,7,20,0
+10159,EVSC,5050,001,Lecture,"3","Stephen Macko","MoTuWeThFrSa 10:00am - 3:30pm","Clark Hall G004","Advanced Oceanography","",Open,7,20,0
+10021,GBUS,7900,001,Lecture,"1.5","Jim Collins, Gopika Spaenle, Jennifer Windus","Sa 9:00am - 12:00pm","TBA","Professional Advancement Course","",Open,72,100,0
+10022,GBUS,7900,002,Lecture,"1.5","Jim Collins, Gopika Spaenle, Jennifer Windus","Sa 9:00am - 12:30pm","TBA","Professional Advancement Course","",Closed,114,100,0
+10020,GBUS,8015,001,Lecture,"1.5","Manuel Baucells","ThFr 6:00pm - 8:45pm","Web-Based Course","Behavioral Decision Making","",Open,59,150,0
+10019,GBUS,8052,001,Lecture,"1.5","Kim Whitler","MoTuWeThFr 4:00pm - 6:45pm","Sands Captl Mgmt Bldg Rm 3140","Marketing Leadership","",Open,66,72,0
+10017,GBUS,8058,001,Lecture,"1.5","Ming-Jer Chen, Varshik Nimmagadda","MoTuWeThFr 8:00am - 5:00pm","Darden Classroom Bldg Room I-L","Disruption, Response, and Transformation","",Open,19,120,0
+10018,GBUS,8391,001,Lecture,"1.5","TBA","TBA","TBA","Strategic Costing","",Open,0,120,0
+10016,GBUS,8500,001,Lecture,"1.5 - 3","Scott Beardsley, R. Marc Johnson","MoTuWeThFr 8:00am - 5:00pm","Darden Classroom Bldg 120","Special Topics Seminar","The CEO in the 21st Century",Open,63,73,0
+10015,GBUS,8698,001,IND,"1","Les Alexander, Timothy Laseter","TBA","TBA","Global Client Projects II","",Open,11,30,0
+10101,GBUS,8698,002,IND,"1","Timothy Laseter","TBA","TBA","Global Client Projects II","",Open,16,100,0
+10136,HIST,2013,001,SEM,"3","Jeffrey Rossman, -","MoTuWeThFrSa 10:00am - 3:30pm","Web-Based Course","Why Did They Kill? Interpreting Genocide and Its Perpetrators","",Open,24,30,0
+10099,ISHU,3183,101,Lecture,"3","Charlotte Matthews","MoTuWeThFr 6:00pm - 10:00pm","Web-Based Course","Writing the Story of Your Life: Creative Nonfiction","",Open,19,30,0
+10100,ISSS,4432,101,Lecture,"3","Clair Berube, -","Th 12:01am - 12:02am","Web-Based Course-No class mtgs","Theories of Interpersonal Communication","",Closed,21,0,0
+10028,LAW,7501,1,Lecture,"1","Paul Mahoney, Eugene Scalia","MoTuWeTh 9:00am - 12:00pm","Brown Hall 129","Special Topics in Law Short Course (SC)","Agencies in Court (SC)",Open,5,16,0
+10008,LAW,7600,1,Lecture,"1","George Rutherglen","MoTuWeTh 9:00am - 12:00pm","Brown Hall 127","Admiralty (SC)","",Open,3,16,0
+10038,LAW,7610,1,Lecture,"1","Marie Gore, Malik Laazouzi","MoTuWeThFr 9:00am - 11:00am","France: Paris","French Public and Private Law (SC)","",Open,18,20,0
+10037,LAW,7611,1,SEM,"1","Andrew Oldham, Amul Thapar","MoTuWeTh 9:00am - 12:00pm","Slaughter Hall 366","The Great Writ (SC)","",Open,11,12,0
+10007,LAW,7637,1,Lecture,"2","Stephen Saltzburg","MoTuWeFrSaSu 8:00am - 6:00pm","Brown Hall 152","Trial Advocacy College (SC)","",Open,16,50,0
+10004,LAW,7645,1,Lecture,"1","John Setear","MoTuWeTh 1:00pm - 4:00pm","Brown Hall 114","Baseball (SC)","",Open,14,16,0
+10001,LAW,7692,1,Lecture,"1","Paul Devamithran, Susan Sajadi, Molly Shadel","MoTuWeTh 9:00am - 12:00pm","Slaughter Hall 290","Persuasion (SC)","",Open,21,30,0
+10002,LAW,7702,1,Lecture,"1","Quinn Curtis, Rob Masri","MoTuWeTh 9:00am - 12:00pm","Brown Hall 121","Legal Practice and the Startup Company: An Inside Look (SC)","",Open,12,16,0
+10035,LAW,7706,1,SEM,"1","Danielle Citron, John Woods","MoTuWeTh 1:00pm - 4:00pm","Brown Hall 121","Cyber Security and Privacy Boot Camp (SC)","",Open,12,16,0
+10011,LAW,7762,1,SEM,"1","Thomas Frampton","MoTuWeTh 9:00am - 12:00pm","Brown Hall 119","Political Prisoners (SC)","",Open,8,16,0
+10031,LAW,7795,1,Lecture,"1","William Charron, Dotan Oliar","MoTuWeTh 1:00pm - 4:00pm","Brown Hall 119","Art Law (SC)","",Open,8,16,0
+10032,LAW,7797,1,Lecture,"1","Andrew Hayashi, Howard Wachtel","MoTuWeTh 9:00am - 12:00pm","Brown Hall 116","Economic Statecraft and Public International Law (SC)","",Open,10,14,0
+10033,LAW,7823,1,SEM,"1","Naomi Cahn, Anne Coughlin","MoTuWeTh 9:00am - 12:00pm","Brown Hall 162","Reproductive Rights and Justice (SC)","",Open,15,16,0
+10152,LAW,8829,1,PRA,"1","A. Ryan","TBA","TBA","JT Externship: Field Experience (SC)","",Closed,1,1,0
+10013,LAW,8830,1,IND,"1","A. Ryan","TBA","TBA","JT Externship: Directed Study (SC)","",Closed,1,1,0
+10131,LPPP,3500,001,Lecture,"3","Stephanie Randolph","MoTuWeThFrSa 10:00am - 3:30pm","Contact Department","Special Topics in Social Entrepreneurship","Impact Investing in Action: Appalachia",Open,14,15,0
+10148,MDST,2508,001,SEM,"3","Anna Clay","MoTuWeThFrSa 10:00am - 3:30pm","Minor Hall 130","Topics in Media Practice","Experiential Multimedia Storytelling",Open,11,12,0
+10141,MDST,2710,001,WKS,"3","Matthew Marshall","MoTuWeThFrSa 11:00am - 4:30pm","Web-Based Course","Screenwriting","",Open,26,30,0
+10132,MDST,3504,001,SEM,"3","Keara Goin","MoTuWeThFrSa 10:00am - 3:30pm","Web-Based Course","Topics in Global Media","Mexico Goes to Hollywood",Open,8,10,0
+10110,MDST,3559,001,SEM,"3","Siva Vaidhyanathan","TBA","TBA","New Course in Media Studies","Al and the Future of Creativity",Closed,10,0,0
+10112,MUSI,2559,1,Lecture,"3","Mary McGehee, Nathan Moore","MoTuWeThFrSa 10:00am - 3:30pm","Web-Based Course","New Course in Music","Sound Production & Storytelling",Open,8,15,0
+10027,PHS,8880,001,PRA,"1 - 3","Aaron Pannone","TBA","TBA","Integrative Learning RP Part 1","",Open,0,2,0
+10024,PHS,8881,001,PRA,"1 - 3","Rajesh Balkrishnan","TBA","TBA","Integrative Learning HP Part 1","",Open,0,2,0
+10025,PHS,8881,002,PRA,"1 - 3","Aaron Pannone","TBA","TBA","Integrative Learning HP Part 1","",Open,0,30,0
+10026,PHS,8881,003,PRA,"1 - 3","Heather Zelle","TBA","TBA","Integrative Learning HP Part 1","",Open,0,30,0
+10023,PHS,8901,001,PRA,"1","Paige Hornsby","TBA","TBA","Applied Practice Experience II","",Open,0,30,0
+10161,PHS,8960,001,Lecture,"1 - 6","Ruth Bernheim","TBA","TBA","Supervised Independent Research I","",Closed,1,1,0
+10149,PHYS,1130,001,Lecture,"3","Richard Lindgren","MoTuWeThFrSa 10:00am - 3:30pm","Web-Based Course","Physics of Sports","",Open,45,60,0
+10108,PHYS,1559,001,Lecture,"3","Robert Group, Robert Hirosky","MoTuWeThFrSa 10:00am - 4:00pm","Physics Bldg 242","New Course in Physics","Crash Course in Machine Learning",Open,6,15,0
+10120,PLAP,3160,001,SEM,"3","Paul Freedman","MoTuWeThFrSa 10:00am - 3:30pm","New Cabell Hall 323","Politics of Food","",Open,37,40,0
+10118,PLAP,3420,001,Lecture,"3","Mary Brown, Kenneth Stroupe","MoTuWeThFrSa 10:00am - 4:00pm","Minor Hall 125","Virginia Government and Politics","",Open,17,30,0
+10140,PSYC,2150,001,Lecture,"3","Mariana Golino","TBA","TBA","Introduction to Cognition","",Closed,50,50,0
+10097,PSYC,2500,001,SEM,"3","Hudson Golino","TBA","TBA","Topics in Psychology","Psychology of Misinformation",Open,111,120,0
+10114,PSYC,3210,001,Laboratory,"3","Erin Clabough","MoTuWeThFrSa 10:00am - 3:30pm","Gilmer Hall 330","RM: Psychobiology Laboratory","",Closed,12,12,0
+10155,PSYC,3280,001,Lecture,"3","Adema Ribic","MoTuWeThFrSa 10:00am - 3:30pm","Gilmer Hall Room 250","RM: Imag(in)e Neurons-Brain Function Thru a Lens","",Open,9,10,0
+10113,PSYC,4100,001,SEM,"3","Cedric Williams","MoTuWeThFrSa 9:00am - 2:30pm","Gilmer Hall 247","Neuroscience of Learning, Emotions and Motivation of Functional Behavior","",Open,14,30,0
+10147,PSYC,4260,001,SEM,"3","Jessica Connelly","MoTuWeThFrSa 10:00am - 3:30pm","Gilmer Hall 359","RM: Genetic and Epigenetic Research in Behavior","",Open,14,24,0
+10142,PSYC,4350,001,Lecture,"3","Meghan Puglia","MoTuWeThFrSa 9:30am - 3:00pm","Contact Department","RM: Research Methods in Developmental Cognitive Neuroscience","",Closed,12,12,0
+10115,PSYC,4500,001,SEM,"3","Tobias Grossmann","MoTuWeThFrSa 9:00am - 2:30pm","New Cabell Hall 303","Special Topics in Psychology","Consciousness",Open,14,20,0
+10129,PSYC,5326,001,SEM,"3","James Coan","MoTuWeThFrSa 10:00am - 3:30pm","Gilmer Hall 245","The Neuroscience of Social Relationships","",Open,14,17,0
+10137,RELB,2100,001,Lecture,"3","Kurtis Schaeffer","MoTuWeThFrSa 10:00am - 3:30pm","Web-Based Course","Buddhism","",Open,26,30,0
+10124,SLAV,2360,001,Lecture,"3","Stanley Stepanic","MoTuWeThFrSa 10:00am - 3:30pm","Wilson Hall 402","Dracula","",Open,68,100,0
+10111,SOC,3056,001,Lecture,"3","Ian Mullins","MoTuWeThFrSa 9:00am - 2:30pm","New Cabell Hall 411","Culture and Power","",Closed,10,10,0
+10135,SOC,3260,001,Lecture,"3","Joseph Davis","MoTuWeThFrSa 10:00am - 3:30pm","New Cabell Hall 383","Prozac Culture","",Open,19,30,0
+10117,SPAN,2010,001,Lecture,"3","Patricio Arriagada Soto","MoTuWeThFrSa 10:00am - 3:30pm","New Cabell Hall 407","Intermediate Spanish","",Open,12,15,0
+10109,STAT,1601,001,Lecture,"3","Richard Ross","MoTuWeThFrSa 10:00am - 3:30pm","Web-Based Course","Introduction to Data Science with R","",Open,22,35,0
+10133,STAT,1601,002,Lecture,"3","Kristen Roland","MoTuWeThFrSa 10:00am - 3:30pm","Web-Based Course","Introduction to Data Science with R","",Open,30,40,0
+10138,STAT,3220,001,Lecture,"3","Krista Varanyak","MoTuWeThFrSa 10:00am - 3:30pm","Web-Based Course","Introduction to Regression Analysis","",Open,24,60,0
+10121,STS,2500,001,Lecture,"3","Benjamin Laugelli","MoTuWeThFrSa 9:30am - 3:00pm","Thornton Hall A120","Science and Technology in Social and Global Context","The LEGO Course: Engineering Design and Values",Open,26,35,0
+10107,WGS,3897,001,Lecture,"3","Lisa Speidel","MoTuWeThFrSa 10:00am - 3:30pm","New Cabell Hall 485","Gender Violence and Social Justice","",Open,16,30,0

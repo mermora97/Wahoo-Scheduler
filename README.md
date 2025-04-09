@@ -1,6 +1,21 @@
 # LLM Project
 
-## To Do:
+## To Do: 4/9/25
+Powerpoint
+- SiS
+- Lou's List
+- us vs Chat GPT
+- Keep it engaging (video and NOT live coding)
+- Memes later on for added flare
+
+Paper
+- Continue working on this (Courtney & Hannah)
+
+Research
+- Looking into a better LLM model that considers GPUs vs CPUs to increase computation speed.
+
+---
+## To Do: 3/31/25
 Paper: (Hannah)
 - Introduction & Related Works
 - Methodology

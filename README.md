@@ -13,12 +13,21 @@ Paper
 - Rachel's RAG Model Implimentation
   - "Biology undergrad 2nd year 2025"
   - Uses the input above to query the course description DB using vector imbedding matching
-  - The output is text for the first LLM pass: 1) user query, 2)  text from database - major descriptions/ requirements, 3) system prompt #1 - tells the LLM it's purpose, the output it should provide, instructions to not hallucinate. The output of this is input as a new query to be embedded in another vector look up to do a look-up into the courses database (Lou's List). The output of this, along with the outputs from the original database lookups from the major descriptions, as well as the OG user query AND system prompt #2 - table format, no class overlap, 12-15 credits per semester, first year students shouldn't have upper level courses, times should be included, other format specifications & specifics for courses. 
+  - The output is text for the first LLM pass: 1) user query, 2)  text from database - major descriptions/ requirements, 3) system prompt #1 - tells the LLM it's purpose, the output it should provide, instructions to not hallucinate. The output of this is input as a new query to be embedded in another vector look up to do a look-up into the courses database (Lou's List). The output of this, along with the outputs from the original database lookups from the major descriptions, as well as the OG user query AND system prompt #2 - table format, no class overlap, 12-15 credits per semester, first year students shouldn't have upper level courses, times should be included, other format specifications & specifics for courses.
+  - The output of this is our final product!
 - Mercedes' RAG Model Implimentation
   - "Biology undergrad 2nd year 2025"
   - Uses input to query the course description database (UVA SIS) using vector imbedding matching
   - Uses the exact same input to also query the course database (Lou's List) using vector imbedding matching
   - Whatever output comes from both databases after both querries, we then feed to the LLM to provide a course description for the user
+  - Feeds the user query to both major and courses DB collection. The major should get the requirements and courses should retrieve the times, schedule, etc. and EVERYTHING is combined and fed to the LLM to merge both features. 
+- Goal:
+  - what's the best way to produce better results?
+     - Tuning variables? reducing tokens: 20k to fewer (Rachel)
+   
+- Figures
+   - ![image](https://github.com/user-attachments/assets/7d205d57-5dad-47e0-9923-3fb489ef873b)
+
 
 Research
 - Looking into a better LLM model that considers GPUs vs CPUs to increase computation speed.

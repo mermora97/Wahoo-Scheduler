@@ -27,6 +27,8 @@ Paper
    
 - Figures
    - ![image](https://github.com/user-attachments/assets/7d205d57-5dad-47e0-9923-3fb489ef873b)
+   - ![image](https://github.com/user-attachments/assets/9e6a081e-53d2-4b0a-a0b7-4c3a9db920a1)
+
 
 
 Research

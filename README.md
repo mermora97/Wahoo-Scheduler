@@ -1,4 +1,16 @@
-# LLM Project
+# ScheduleRAG: Recommendation for UVA Course Scheduling
+
+## Motivation
+
+Course scheduling support is inadequate at large universities and typically falls on students. Diverting attention from maintaining proper marks for current classes can be detrimental to students who may have to extend their enrollment to extra semesters. We look to aid students in this challenging and critical process with a RAG-supplemented LLM scheduler.
+
+## Models
+
+One and two-step RAG methods were developed to provide personalized schedules. Vectorized course and degree requirements databases provided context for the model generation.
+
+## Results
+
+The two-step RAG model was better suited for this task, providing consistently higher response relevance scores (0.68 and higher).
 
 ## To Do: 4/9/25
 Powerpoint

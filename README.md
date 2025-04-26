@@ -1,4 +1,4 @@
-# ScheduleRAG: Recommendation for UVA Course Scheduling
+# ScheduleRAG: A Retrieval Augmented Generation Approach to UVA Course Scheduling
 
 ## Project Motivation
 

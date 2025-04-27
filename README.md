@@ -1,5 +1,6 @@
 # ScheduleRAG: A Retrieval Augmented Generation Approach to UVA Course Scheduling
 ![image](https://github.com/user-attachments/assets/c2a0a08a-f214-4b1f-be68-3e4979191440)
+![image](https://github.com/user-attachments/assets/7d205d57-5dad-47e0-9923-3fb489ef873b)
 
 ## Project Motivation
 
@@ -19,10 +20,6 @@ Course scheduling support is inadequate at large universities and typically fall
 - **LLM Model** (e.g., OpenAI GPT, HuggingFace models)
 
 ## Results
+![image](https://github.com/user-attachments/assets/12dc6c1f-dd65-4583-a922-3227c82e1aaf)
 
 The two-step RAG model was better suited for this task, providing consistently higher response relevance scores (0.68 and higher).
-
-   
-- Figures
-   - ![image](https://github.com/user-attachments/assets/7d205d57-5dad-47e0-9923-3fb489ef873b)
-   - ![image](https://github.com/user-attachments/assets/9e6a081e-53d2-4b0a-a0b7-4c3a9db920a1)

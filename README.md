@@ -4,7 +4,10 @@
 
 ## Project Motivation
 
-Course scheduling support is inadequate at large universities and typically falls on students. Diverting attention from maintaining proper marks for current classes can be detrimental to students who may have to extend their enrollment to extra semesters. We look to aid students in this challenging and critical process with a RAG-supplemented LLM scheduler.
+At large universities, course scheduling support is often inadequate and falls heavily on students.  
+The time-consuming task of independently navigating course catalogs and major requirements can divert attention from current coursework and even delay graduation.  
+
+**ScheduleRAG** aims to simplify and optimize the scheduling process using a Retrieval-Augmented Generation (RAG) pipeline powered by a Large Language Model (LLM), helping students plan their academic paths more efficiently and confidently.
 
 ## Project Features
 - Web scraped data from Lou’s List and UVA majors pages

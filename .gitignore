@@ -167,3 +167,5 @@ cython_debug/
 #.idea/
 chroma_db/39a36f82-7162-4ef3-91ad-455fba97d844/data_level0.bin
 chroma_db/39a36f82-7162-4ef3-91ad-455fba97d844/length.bin
+
+.virtual_documents/

@@ -1,4 +1,5 @@
 # ScheduleRAG: A Retrieval Augmented Generation Approach to UVA Course Scheduling
+![image](https://github.com/user-attachments/assets/c2a0a08a-f214-4b1f-be68-3e4979191440)
 
 ## Project Motivation
 
